@@ -1,4 +1,4 @@
-class maxWealth {
+class Wealth {
     public int maxWealthSolution(int[][] accounts) {
         int wealth = 0;
         int[] sums = new int[accounts.length];
@@ -15,7 +15,7 @@ class maxWealth {
         return wealth;
     }
     public static void main(String[] args) {
-        maxWealth s = new maxWealth();
+        Wealth s = new Wealth();
         int[][]accounts = {{2,8,7},{7,1,3},{1,9,5}};
         System.out.print(s.maxWealthSolution(accounts));
         System.out.print(" is the biggest wealth");
