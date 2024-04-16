@@ -19,7 +19,8 @@ class Account implements Serializable  {
     public void displayInfo(Account ba) {
         System.out.print("Acc № [" + ba.getAccNumber() + "] ");
         System.out.print("Name [" + ba.getName() + "] ");
-        System.out.print("Ballance : [" + ba.getBallance() + "] ");
+        System.out.print("Ballance [" + ba.getBallance() + "] ");
+        //System.out.println("Password [" + ba.getPassword() + "]");
         System.out.println();
     }
     public String getPassword() {
@@ -75,11 +76,69 @@ public class BankAccountProgram {
         } return cur;
     }
 
+    public static void adminSession (Scanner scan) {
+        Account adminAcc = new Account();
+        System.out.println("Write admin password:");
+        String adminPasswordin = scan.nextLine();
+        while (adminPasswordin.equals(adminAcc.getPassword()) == false) {
+            System.out.println("Incorrect password. Try again:");
+            adminPasswordin = scan.nextLine();
+        }
+        if (adminPasswordin.equals(adminAcc.getPassword())) {
+            System.out.println("Your password " + adminPasswordin + 
+            " is correct.\nDo you want to create or remove an account? Write \"create\" or \"remove\"");
+        }
+        HashSet<Account> mySe = ReadSetFromFile();
+        if (mySe == null) {
+            mySe = getDefaultSet();
+        }
+        String createOrRemove = scan.nextLine();
+        while (createOrRemove.equals("create") == false & createOrRemove.equals("remove") == false) {
+            System.out.println("Only \"create\" or \"remove\", please:");
+            createOrRemove = scan.nextLine();
+        }
+        if (createOrRemove.equals("create")) {
+            Account b = createAccount(/* scan */);
+            greet(b);
+            mySe.add(b);
+        }
+        if (createOrRemove.equals("remove")) {
+            System.out.println("Write the phone number of customer's account to remove:");
+            int intAccToremove = Integer.parseInt(PhoneNumber(scan).substring(4));
+            Account current = new Account();
+            int count = 0;
+            for (Account d : mySe) {
+                if (d.getAccNumber() == intAccToremove) {
+                    System.out.println("Write admin password to confirm removal of " + d.getName() + "'s account:");
+                    String pass = getText(scan);
+                    while (pass.equals(current.getPassword()) == false) {
+                        System.out.println("Incorrect password. Try again:");
+                        pass = scan.nextLine();
+                    }
+                    if (pass.equals(current.getPassword())) {
+                        System.out.println("Account of " + d.getName() + " has been removed.");
+                        current = d;
+                        count++;
+                        }
+                    }
+                }
+                if (count == 0) {
+                    System.out.println("There is no account № " + intAccToremove);
+                }
+            removeObjFromSet(mySe,current);
+        }
+        System.out.println("And finally write and read:");
+        WriteSetToFile(mySe);
+        ReadSetFromFile();
+}
+
     public static void newCustomer(boolean programWorks) {
         HashSet<Account> mySe = ReadSetFromFile();
-        if (mySe == null) {mySe = getDefaultSet();}
+        if (mySe == null) {
+            mySe = getDefaultSet();
+        }
         Scanner scan = new Scanner(System.in);
-        System.out.println("What is your account number? (phone number)");
+        System.out.println("Write your phone number:");
         Account current = currentAcc(mySe, scan);
         if (current != null) {
             for (Account a : mySe) {
@@ -96,61 +155,45 @@ public class BankAccountProgram {
             mySe.add(b);
             current = b;
         }
-        System.out.println(current.getName() + ", what do you want to do next? \n1 - deposit 2 - withdraw");
-        int secondcheck = getInt(/* scan */); scan.nextLine();
-        if (secondcheck == 1) {
+        System.out.println(current.getName() + ", what do you want to do? \nWrite \"deposit\" or \"withdraw\"");
+        String secondcheck = getText(scan);
+        if (secondcheck.equals("deposit") == false & secondcheck.equals("withdraw") == false) {
+            System.out.println("Only \"deposit\" and \"withdraw\", please");
+            secondcheck = getText(scan);
+        }
+        if (secondcheck.equals("deposit")) {
             System.out.println("How much do you want to deposit?");
             double depositInput = getDSum(scan);
-            System.out.println("Are you sure you want to deposit " + depositInput + " dollars? 1 - yes 0 - no");
-            int thirdcheck = getInt(/* scan */); scan.nextLine();
-            if (thirdcheck == 1) {
-                System.out.println("Write your phone number again: ");
-                int accIn = Integer.parseInt(PhoneNumber(scan).substring(4));
-                if (accIn == current.getAccNumber()) {
-                    current.setBallance((current.getBallance() + depositInput), current);
-                }
-            } else {
-                System.out.println("Only 1 and 0, please");
+            System.out.println(current.getName() + ", you are going to deposit " + depositInput + " dollars. Write your password:");
+            String passIn = getText(scan);
+            if (passIn.equals(current.getPassword())) {
+                current.setBallance((current.getBallance() + depositInput), current);
+                System.out.println("Your new ballance is: " + current.getBallance() + " dollars.");
             }
         }
-        if (secondcheck == 2) {
+        if (secondcheck.equals("withdraw")) {
             System.out.println("How much do you want to withdraw?");
-            double depositOutput = getDSum(scan);
-            System.out.println("Write your phone number again: ");
-            int accIn = Integer.parseInt(PhoneNumber(scan).substring(4));
-            System.out.println("Are you sure you want to withdraw  " + depositOutput + " dollars? 1 - yes 0 - no");
-            int thirdcheck = getInt(/* scan */);
-            scan.nextLine();
-            if (thirdcheck == 1) {
-                if (accIn == current.getAccNumber() & depositOutput < current.getBallance()) {
-                    current.setBallance((current.getBallance() - depositOutput), current);
-                } if (accIn != current.getAccNumber()) {
-                    System.out.println("Wrong number");
-                } if (depositOutput > current.getBallance()) {
-                System.out.println("You, " + current.getName() + ", don't have " + depositOutput + " dollars. Only " + current.getBallance());
-                }
-            } else {
-                System.out.println("Only 1 and 0, please");
+            double withdrawal = getDSum(scan);
+            System.out.println(current.getName() + ", you are going to withdraw " + withdrawal + " dollars. Write your password:");
+            String PassInput = getText(scan);
+            String AccPassw = current.getPassword();
+            if (PassInput.equals(AccPassw) == false) {
+                System.out.println("Wrong password. Try again:");
+                PassInput = getText(scan);
+            }
+            if (PassInput.equals(AccPassw)) {
+                System.out.println(current.getName() + ", here is your " + withdrawal + " dollars.");
+                current.setBallance((current.getBallance() - withdrawal), current);        
+            }
+            if (withdrawal > current.getBallance()) {
+                System.out.println("You, " + current.getName() + ", don't have " + withdrawal + " dollars. Only " + current.getBallance());
             }
         }
-        /* if (secondcheck == 3) {
-            System.out.println("Are you sure you want to remove your account?");
-            int thirdcheck = getInt(scan); scan.nextLine();
-            if (thirdcheck == 1) {
-                System.out.println("Write your number again:");
-                removeObjFromSet(mySe, current);
-            } else {
-                System.out.println("Only 1 and 0, please");
-            }
-        } */
-        if (secondcheck != 1 & secondcheck != 2/*  & secondcheck != 3 */) {
-            System.out.println("Just 1 or 2 please.");}
-        scan.close();
-        System.out.println("And finally write and read:");
-        WriteSetToFile(mySe);
-        ReadSetFromFile();
-    }
-    
+    scan.close();
+    System.out.println("And finally write and read:");
+    WriteSetToFile(mySe);
+    ReadSetFromFile();
+}    
     private HashSet<Account> mySet = new HashSet<Account>();
     
     public void addToSet(Account o) {
@@ -237,6 +280,18 @@ public class BankAccountProgram {
         return st;
     }
 
+    public static void setPassw (Account a, Scanner sp) {
+        System.out.println("Write password:");
+        String first = getText(sp);
+        System.out.println("Write password again:");
+        String second = getText(sp);
+        if (first.equals(second)) {
+            a.setPassword(second);
+        } else {
+            setPassw(a, sp);
+        }
+    }
+
     public static Account createAccount(/* Scanner sca */) {
         Account b = new Account();
         Scanner sca = new Scanner(System.in);
@@ -244,11 +299,9 @@ public class BankAccountProgram {
         b.setAccNumber(Integer.parseInt(PhoneNumber(sca).substring(4)));
         System.out.println("Customer's full name:");
         b.setName(getText(sca));
+        System.out.println("Ballance will be zero.");
         b.setBallance(0,b);
-        System.out.println("Ballance will be zero. And write password:");
-        String first = getText(sca);
-        String second = getText(sca);
-        if (first.equals(second)) {b.setPassword(first);}
+        setPassw(b, sca);
         sca.close();
         return b;
     }
@@ -305,62 +358,19 @@ public class BankAccountProgram {
             s.close();
             return getInt(/* s */);
         }
-    }
-
-    public static String adminPasswordInput() {
-        Scanner s = new Scanner(System.in);
-        String password = s.nextLine();
-        Account a = new Account();
-        String accPassw = a.getPassword();
-        System.out.println(password + " is password");
-        System.out.println(accPassw + " is accPassw");
-        s.close();
-        return password;
-    }
-        
+    }        
     public static void main(String[] args) {
-        Account a = new Account();
-        System.out.println("Are you admin(admin) or customer(yes)?");
+        System.out.println("Are you admin or customer? (Write \"admin\" or \"customer\")");
         Scanner scan = new Scanner(System.in);
         String adminOrCustomer = scan.nextLine();
-        while (adminOrCustomer.equals("admin") == false & adminOrCustomer.equals("yes") == false) {
+        while (adminOrCustomer.equals("admin") == false & adminOrCustomer.equals("customer") == false) {
             System.out.println("Just \"admin\" or \"customer\", please. Try again:");
             adminOrCustomer = scan.nextLine();
         }
         if (adminOrCustomer.equals("admin")) {
-            System.out.println("You chose to be an admin. Write password:");
-            String adminPassword = scan.nextLine();
-            while (adminPassword.equals(a.getPassword()) == false) {
-                System.out.println("Incorrect password. Try again:");
-                adminPassword = scan.nextLine();
-            }
-            if (adminPassword.equals(a.getPassword())) {
-                System.out.println("Your password " + adminPassword + 
-                " is correct.\nDo you want to create (create) or remove (remove) an account?");
-            }
-            HashSet<Account> mySe = ReadSetFromFile();
-            if (mySe == null) {
-                mySe = getDefaultSet();
-            }
-            String createOrRemove = scan.nextLine();
-            while (createOrRemove.equals("create") == false & createOrRemove.equals("remove") == false) {
-                System.out.println("Only \"create\" or \"remove\", please:");
-                createOrRemove = scan.nextLine();
-            }
-            if (createOrRemove.equals("create")) {
-                Account b = createAccount(/* scan */);
-                greet(b);
-                mySe.add(b);
-            }
-            if (createOrRemove.equals("remove")) {
-                System.out.println("What is the phone number for account you want to remove?");
-            }
-            System.out.println("And finally write and read:");
-            WriteSetToFile(mySe);
-            ReadSetFromFile();
+            adminSession(scan);
         }
-        if (adminOrCustomer.equals("yes")) {
-            System.out.println("You are a customer.");
+        if (adminOrCustomer.equals("customer")) {
             boolean works = true;
             newCustomer(works);
         }            
