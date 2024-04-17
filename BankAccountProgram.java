@@ -1,3 +1,4 @@
+import java.io.Console;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.ObjectInputStream;
@@ -79,14 +80,16 @@ public class BankAccountProgram {
     public static void adminSession (Scanner scan) {
         Account adminAcc = new Account();
         System.out.println("Write admin password:");
-        String adminPasswordin = scan.nextLine();
+        Console cons = System.console();
+        char[] cPass = cons.readPassword();
+        String adminPasswordin = String.valueOf(cPass);
         while (adminPasswordin.equals(adminAcc.getPassword()) == false) {
             System.out.println("Incorrect password. Try again:");
             adminPasswordin = scan.nextLine();
         }
         if (adminPasswordin.equals(adminAcc.getPassword())) {
-            System.out.println("Your password " + adminPasswordin + 
-            " is correct.\nDo you want to create or remove an account? Write \"create\" or \"remove\"");
+            adminPasswordin = null;
+            System.out.println("Do you want to create or remove an account? Write \"create\" or \"remove\"");
         }
         HashSet<Account> mySe = ReadSetFromFile();
         if (mySe == null) {
@@ -109,13 +112,16 @@ public class BankAccountProgram {
             int count = 0;
             for (Account d : mySe) {
                 if (d.getAccNumber() == intAccToremove) {
-                    System.out.println("Write admin password to confirm removal of " + d.getName() + "'s account:");
-                    String pass = getText(scan);
+                    System.out.println("You are going to remove " + d.getName() + "'s account:");
+                    Console f = System.console();
+                    char[] CharsPassw = f.readPassword("Write admin password:");
+                    String pass = String.valueOf(CharsPassw);
                     while (pass.equals(current.getPassword()) == false) {
                         System.out.println("Incorrect password. Try again:");
                         pass = scan.nextLine();
                     }
                     if (pass.equals(current.getPassword())) {
+                        pass = null;
                         System.out.println("Account of " + d.getName() + " has been removed.");
                         current = d;
                         count++;
@@ -164,24 +170,29 @@ public class BankAccountProgram {
         if (secondcheck.equals("deposit")) {
             System.out.println("How much do you want to deposit?");
             double depositInput = getDSum(scan);
-            System.out.println(current.getName() + ", you are going to deposit " + depositInput + " dollars. Write your password:");
-            String passIn = getText(scan);
-            if (passIn.equals(current.getPassword())) {
+            System.out.println(current.getName() + ", you are going to deposit " + depositInput + " dollars.");
+            Console d = System.console();
+            char[] charPass = d.readPassword("Write your password:");
+            String StringPassw = String.valueOf(charPass);
+            if (StringPassw.equals(current.getPassword())) {
                 current.setBallance((current.getBallance() + depositInput), current);
+                StringPassw = null;
                 System.out.println("Your new ballance is: " + current.getBallance() + " dollars.");
             }
         }
         if (secondcheck.equals("withdraw")) {
             System.out.println("How much do you want to withdraw?");
             double withdrawal = getDSum(scan);
-            System.out.println(current.getName() + ", you are going to withdraw " + withdrawal + " dollars. Write your password:");
-            String PassInput = getText(scan);
-            String AccPassw = current.getPassword();
-            if (PassInput.equals(AccPassw) == false) {
+            System.out.println(current.getName() + ", you are going to withdraw " + withdrawal + " dollars.");
+            Console e = System.console();
+            char[] myCPass = e.readPassword("Write your password:");
+            String PassInput = String.valueOf(myCPass);
+            if (PassInput.equals(current.getPassword()) == false) {
                 System.out.println("Wrong password. Try again:");
                 PassInput = getText(scan);
             }
-            if (PassInput.equals(AccPassw)) {
+            if (PassInput.equals(current.getPassword())) {
+                PassInput = null;
                 System.out.println(current.getName() + ", here is your " + withdrawal + " dollars.");
                 current.setBallance((current.getBallance() - withdrawal), current);        
             }
@@ -281,13 +292,17 @@ public class BankAccountProgram {
     }
 
     public static void setPassw (Account a, Scanner sp) {
-        System.out.println("Write password:");
-        String first = getText(sp);
-        System.out.println("Write password again:");
-        String second = getText(sp);
+        Console b = System.console();
+        char[] cPass1 = b.readPassword("Write password:");
+        String first = String.valueOf(cPass1);
+        char[] cPass2 = b.readPassword("Write password again:");
+        String second = String.valueOf(cPass2);
         if (first.equals(second)) {
             a.setPassword(second);
+            first = null;
+            second = null;
         } else {
+            System.out.println("Passwords should be the same.");
             setPassw(a, sp);
         }
     }
