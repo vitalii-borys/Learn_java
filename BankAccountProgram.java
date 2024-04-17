@@ -24,6 +24,7 @@ class Account implements Serializable  {
         //System.out.println("Password [" + ba.getPassword() + "]");
         System.out.println();
     }
+
     public String getPassword() {
         return password;
     }
@@ -77,21 +78,33 @@ public class BankAccountProgram {
         } return cur;
     }
 
+    public static boolean passwordCheck(Account current, Scanner scan) {
+        Console e = System.console();        
+        char[] myCPass = e.readPassword("Write your password:");
+        String PassInput = String.valueOf(myCPass);
+        if (PassInput.equals(current.getPassword()) == false) {
+                System.out.println("Wrong password. Try again:");
+                return passwordCheck(current, scan);
+            } else {
+                return true;
+            }
+    }
+
     public static void adminSession (Scanner scan) {
+        HashSet<Account> mySe = ReadSetFromFile();
         Account adminAcc = new Account();
-        System.out.println("Write admin password:");
+        /*System.out.println("Write admin password:");
         Console cons = System.console();
         char[] cPass = cons.readPassword();
         String adminPasswordin = String.valueOf(cPass);
-        while (adminPasswordin.equals(adminAcc.getPassword()) == false) {
+         while (adminPasswordin.equals(adminAcc.getPassword()) == false) {
             System.out.println("Incorrect password. Try again:");
             adminPasswordin = scan.nextLine();
-        }
-        if (adminPasswordin.equals(adminAcc.getPassword())) {
-            adminPasswordin = null;
+        } */
+        if (passwordCheck(adminAcc, scan)) {
+            //adminPasswordin = null;
             System.out.println("Do you want to create or remove an account? Write \"create\" or \"remove\"");
         }
-        HashSet<Account> mySe = ReadSetFromFile();
         if (mySe == null) {
             mySe = getDefaultSet();
         }
@@ -113,15 +126,15 @@ public class BankAccountProgram {
             for (Account d : mySe) {
                 if (d.getAccNumber() == intAccToremove) {
                     System.out.println("You are going to remove " + d.getName() + "'s account:");
-                    Console f = System.console();
+                    /* Console f = System.console();
                     char[] CharsPassw = f.readPassword("Write admin password:");
                     String pass = String.valueOf(CharsPassw);
                     while (pass.equals(current.getPassword()) == false) {
                         System.out.println("Incorrect password. Try again:");
                         pass = scan.nextLine();
-                    }
-                    if (pass.equals(current.getPassword())) {
-                        pass = null;
+                    } */
+                    if (passwordCheck(current, scan)/* pass.equals(current.getPassword() */) {
+                        //pass = null;
                         System.out.println("Account of " + d.getName() + " has been removed.");
                         current = d;
                         count++;
@@ -150,7 +163,7 @@ public class BankAccountProgram {
             for (Account a : mySe) {
                 if (current.getAccNumber() == a.getAccNumber()) {
                     a.displayInfo(a);
-                    System.out.println(" - is text from HashSet<Account> mySe");
+                    //System.out.println(" - is text from HashSet<Account> mySe");
                     current = a;
                 }
             }
@@ -175,7 +188,8 @@ public class BankAccountProgram {
             char[] charPass = d.readPassword("Write your password:");
             String StringPassw = String.valueOf(charPass);
             if (StringPassw.equals(current.getPassword())) {
-                current.setBallance((current.getBallance() + depositInput), current);
+                double newBallance = Math.round((current.getBallance() + depositInput) * 100.0) / 100.0;                
+                current.setBallance(newBallance/* (current.getBallance() + depositInput) */, current);
                 StringPassw = null;
                 System.out.println("Your new ballance is: " + current.getBallance() + " dollars.");
             }
@@ -183,21 +197,23 @@ public class BankAccountProgram {
         if (secondcheck.equals("withdraw")) {
             System.out.println("How much do you want to withdraw?");
             double withdrawal = getDSum(scan);
-            System.out.println(current.getName() + ", you are going to withdraw " + withdrawal + " dollars.");
-            Console e = System.console();
+            //System.out.println(current.getName() + ", you are going to withdraw " + withdrawal + " dollars.");
+            /* Console e = System.console();
             char[] myCPass = e.readPassword("Write your password:");
             String PassInput = String.valueOf(myCPass);
             if (PassInput.equals(current.getPassword()) == false) {
                 System.out.println("Wrong password. Try again:");
                 PassInput = getText(scan);
+            } */
+            while (withdrawal > current.getBallance()) {
+                System.out.println("You, " + current.getName() + ", don't have " + withdrawal + " dollars. Only " + current.getBallance() + " Try again:");
+                withdrawal = getDSum(scan);
             }
-            if (PassInput.equals(current.getPassword())) {
-                PassInput = null;
+            if (passwordCheck(current, scan) & withdrawal <= current.getBallance()/* PassInput.equals(current.getPassword()) */) {
+                //PassInput = null;
                 System.out.println(current.getName() + ", here is your " + withdrawal + " dollars.");
-                current.setBallance((current.getBallance() - withdrawal), current);        
-            }
-            if (withdrawal > current.getBallance()) {
-                System.out.println("You, " + current.getName() + ", don't have " + withdrawal + " dollars. Only " + current.getBallance());
+                double newBallance = Math.round((current.getBallance() - withdrawal) * 100.0) / 100.0;
+                current.setBallance((newBallance), current);
             }
         }
     scan.close();
