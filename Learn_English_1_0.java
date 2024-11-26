@@ -6,14 +6,60 @@ import java.util.Map;
 import java.util.Random;
 import java.util.Scanner;
 import java.util.Set;
+import javax.swing.ImageIcon;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.SwingConstants;
+import java.awt.Color;
+import java.awt.Font;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
-
-public class EnglishGuessGame {
+public class Learn_English_1_0 {
+    public static void running_back_end() throws IOException {
+        File myEnglishFile = new File("C:\\Users\\photo\\Documents\\GitHub\\Learn_java\\English_words.txt");
+        File myCyrillicFile = new File("C:\\Users\\photo\\Documents\\GitHub\\Learn_java\\Cyrillic_words.txt");
+        Map<String, String> myHashMap = create_Map(myEnglishFile, myCyrillicFile);
+        List<String> list_From_Map = new ArrayList<>(myHashMap.keySet());
+        Collections.shuffle(list_From_Map);
+        Scanner scan = new Scanner(System.in);
+        System.out.println("How many chars in word should be missing? (1, 2 or 3)");
+        int how_many_chars_to_guess = one_two_or_three(scan);
+        for (String toFind : list_From_Map) {
+            int[] ints_to_guess = get_correct_random_ints(toFind, how_many_chars_to_guess);
+            String hidden = randInt_to_hiddenString(toFind, ints_to_guess);
+            System.out.println(hidden + " " + myHashMap.get(toFind).toLowerCase());
+            char[] answer = get_chars_input(scan, how_many_chars_to_guess);
+            char[] hidden_chars = chars_from_ints(ints_to_guess, toFind);
+            while (answer_matches(answer, hidden_chars) == false) {
+                System.out.println("Try again:");
+                System.out.println(hidden + " " + myHashMap.get(toFind).toLowerCase());
+                answer = get_chars_input(scan, how_many_chars_to_guess);
+            }
+            if (answer_matches(answer, hidden_chars)) {
+                System.out.println("Correct. It is \"" + toFind + "\".");
+            }
+        }
+        scan.close();
+    }
+    public static JFrame create_frame() {
+        JFrame frameToWorkWIth = new JFrame("Hello world - first program");
+        JLabel myInscription = new JLabel("Hello, GUI!", SwingConstants.CENTER);
+        ImageIcon ic = new ImageIcon("ic.png");
+        myInscription.setFont(new Font("Arial", Font.BOLD, 24));
+        myInscription.setForeground(new Color(88, 50, 50));
+        myInscription.setBackground(new Color(15, 22, 22));
+        myInscription.setOpaque(true);
+        frameToWorkWIth.add(myInscription);
+        frameToWorkWIth.setIconImage(ic.getImage());
+        frameToWorkWIth.setSize(720,480);
+        frameToWorkWIth.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frameToWorkWIth.setVisible(true);
+        return frameToWorkWIth;
+    }
     public static int one_two_or_three(Scanner external_Scanner) {
         String input = external_Scanner.nextLine();
         while (input.isEmpty()) {
@@ -149,29 +195,6 @@ public class EnglishGuessGame {
         return myMap;
     }
     public static void main(String[] args) throws Exception {
-        File myEnglishFile = new File("C:\\Users\\photo\\Documents\\GitHub\\Learn_java\\English_words.txt");
-        File myCyrillicFile = new File("C:\\Users\\photo\\Documents\\GitHub\\Learn_java\\Cyrillic_words.txt");
-        Map<String, String> myHashMap = create_Map(myEnglishFile, myCyrillicFile);
-        List<String> list_From_Map = new ArrayList<>(myHashMap.keySet());
-        Collections.shuffle(list_From_Map);
-        Scanner scan = new Scanner(System.in);
-        System.out.println("How many chars in word should be missing? (1, 2 or 3)");
-        int how_many_chars_to_guess = one_two_or_three(scan);
-        for (String toFind : list_From_Map) {
-            int[] ints_to_guess = get_correct_random_ints(toFind, how_many_chars_to_guess);
-            String hidden = randInt_to_hiddenString(toFind, ints_to_guess);
-            System.out.println(hidden + " " + myHashMap.get(toFind).toLowerCase());
-            char[] answer = get_chars_input(scan, how_many_chars_to_guess);
-            char[] hidden_chars = chars_from_ints(ints_to_guess, toFind);
-            while (answer_matches(answer, hidden_chars) == false) {
-                System.out.println("Try again:");
-                System.out.println(hidden + " " + myHashMap.get(toFind).toLowerCase());
-                answer = get_chars_input(scan, how_many_chars_to_guess);
-            }
-            if (answer_matches(answer, hidden_chars)) {
-                System.out.println("Correct. It is \"" + toFind + "\".");
-            }
-        }
-        scan.close();
+        running_back_end();
     }
 }
