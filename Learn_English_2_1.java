@@ -21,9 +21,6 @@ import java.util.Set;
 public class Learn_English_2_1 {
     public static boolean answer_matches(char[] user_chars, char[] hiddenChars) {
         boolean matches;
-        /* for (int i = 0; i < user_chars.length; i++) {
-            user_chars[0] = Character.toLowerCase(user_chars[i]);
-        } */
         if (Arrays.equals(hiddenChars, user_chars)) {
             matches = true;
         } else {
@@ -40,16 +37,19 @@ public class Learn_English_2_1 {
         }
         return out_chars;
     }
-    public static char[] get_chars_input(Scanner expternal_Scanner, int chars_count) {
+    public static char[] get_chars_input(Scanner external_Scanner, int chars_count) {
         char[] out = new char[chars_count];
         System.out.println("Guess hidden:");
-        String input = expternal_Scanner.nextLine();
+        String input = external_Scanner.nextLine();
+        if (input.equals("exit")) {
+            System.exit(0);
+        }
         for (int i = 0; i < chars_count; i++) {
             boolean input_fits = false;
             while (input_fits == false) {
                 if (input.length() != chars_count) {
                     System.out.println("Letters count should be " + chars_count);
-                    input = expternal_Scanner.nextLine();
+                    input = external_Scanner.nextLine();
                 } else {
                     input_fits = true;
                 }
@@ -222,6 +222,7 @@ public class Learn_English_2_1 {
         List<SerializableEntry<String,String>> levelThree = ReadListFromFile(third_level);
         List<SerializableEntry<String,String>> levelThree_toWrite = ReadListFromFile(third_level);
         Scanner scan = new Scanner(System.in);
+        System.out.println(mainList.size() + " words to guess!");
         for (SerializableEntry<String, String> entryToFind : shuffledList) {
             int how_many_chars_to_guess = 1;
             int[] ints_to_guess;
