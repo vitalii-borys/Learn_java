@@ -232,11 +232,21 @@ public class Learn_English_2_1 {
                 String hidden = randInt_to_hiddenString(entryToFind.getKey(), ints_to_guess);
                 System.out.println(hidden + " " + entryToFind.getValue().toLowerCase());
                 char[] answer = get_chars_input(scan, how_many_chars_to_guess);
+                char[] skipArray = {'0'};
+                if (Arrays.equals(answer, skipArray)) {
+                    continue;
+                }
                 char[] hidden_chars = chars_from_ints(ints_to_guess, entryToFind.getKey().toLowerCase());
                 while (answer_matches(answer, hidden_chars) == false) {
-                    System.out.println("Try again:");
+                    System.out.println("Try again or type \"0\" to skip:");
                     System.out.println(hidden + " " + entryToFind.getValue().toLowerCase());
                     answer = get_chars_input(scan, how_many_chars_to_guess);
+                    if (Arrays.equals(answer, skipArray)) {
+                        break;
+                    }
+                }
+                if (Arrays.equals(answer, skipArray)) {
+                    continue;
                 }
                 if (answer_matches(answer, hidden_chars)) {
                     System.out.println("Correct. It is \"" + entryToFind.getKey() + "\".");
