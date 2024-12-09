@@ -4,8 +4,8 @@ apprehension
 aquiline
 artificial
 astute
-become manifest 
-binding treaty
+manifest 
+treaty
 blithe
 blunder
 bonehead
@@ -26,7 +26,7 @@ conventions
 copper
 crook
 curtsey
-cut ice
+lode
 deceive 
 defiled
 deign
@@ -34,26 +34,26 @@ docile
 dough
 eagle
 embassy 
-essentials go
+essentials
 fiend
 fix up
 flatter
-good form
+precedence
 gabled
 gasp
 gaunt
 go out
-going subtly wrong
-gol-darned
-got on to
-grasp of iron
+sasquatch
+surplus
+wretched
+collated
 greedy
 gripped
 grudge
 gunner
 guttural
 halt
-Have your way!
+cellular
 heavy-handed
 hermit
 humiliation
@@ -64,26 +64,25 @@ inscription
 insular
 invect
 invective
-It's beyond me.
+chandelier
 lattice
-leave to its fate
+board up
 legation
 linger
-live it down 
+interrogate
 mad
 malignant 
 marvel
 master
 matched
 mind you
-mug
+margin
 munitions
-named after
+name after
 naval
-neatly
-nitsky
-Nothing doing!
-observed
+basil
+haul off
+observe
 palate
 parcel
 passion
@@ -95,7 +94,7 @@ precautions
 prejudice 
 ramp
 rascal
-reckon you
+meander
 refrain
 resemblance
 resign
@@ -104,7 +103,7 @@ revelry
 ripen
 salver
 sealed
-Search me!
+pushup
 sedately
 segregation
 self-absorption
@@ -116,9 +115,8 @@ sodden
 somnolence
 soothe
 spare
-sparking plugs
+juke
 splendid
-stand the racket
 stertorously
 stir up
 stool pigeon
@@ -130,26 +128,26 @@ study
 subordinate
 superficial
 superscription
-taken it over
+take over
 thickset
 thoroughly
 tranquill
-turn a shade paler
+quease
 vague
 vigil
 wad
 wandering 
 wince
 woozy
-you don't tell me
+retribution
 captor
 deliberate
 warble
 ditty
-lamented
+lament
 traitor
 immaterial
-sat up
+set up
 envoy
 groan
 clutch
@@ -159,7 +157,6 @@ ignoble
 foe
 tread
 hoist
-wedge
 amenities
 outrageous
 accomplice
@@ -168,60 +165,58 @@ whence
 chat
 vainly
 wriggle
-wither
 of old
 page
 sufficiently
 keen on
 baggy
-lean against
+lean
 obliging
 confound
 facsimile
-dressing-gown
-from over yonder
+lethargy
+yonder
 faculties
-parting blessing
+blessing
 twitch
 exageration
-Count me in!
-occasion
+placeholder
+goby
 fib
 vice
-cast a net
+lie
 shackles
-lay one by the heels
+hind
 credulous
 gudgeon
 flop
-at his very elbow
-by your leave
+splayed
+hoove
 incarnate
-whimsical happenings
+hoot
 fancy
 tray
-grasp the nettle
+nettle
 hang about
 warily
 fatuous
-show him in
+huff
 earnest
-sticks at nothing
-You would be horribly in the way.
+bedraggled
+trot
 usher
 swarthy
 moustache
 surmounted
 flamboyant
 impassive
-gave a violent start.
+throttle
 stagger
 cane
 mock
 opportune
-scowl
 threatening
-rogues' gallery
+mugshot
 alleged
 contemptuously
 impersonation
@@ -229,31 +224,30 @@ deplore
 neglect
 knotted
 menace
-dogged
 pest
 nutshell
-hip pocket
+hip
 squat
 vile
-forged check
+mugger
 trump
 humdrum
 bully
 peach
-compound a felony
-give it up
+felony
+give up
 slip
 commission
 protruding
 anticipation
 tense
-give ourselves up
+trapezoid
 estimable
 dull
 obstinate
 puzzled
 debonair
-astute
+gorge
 racous
 withdrew
 long-drawn
@@ -261,39 +255,37 @@ wailing
 haunting
 faintly
 sallow
-Half a mo (Half a moment)
+inane
 effigy
-Strike me!
+bobble
 lag
 swag
 quid
 pate
 faint
 bog
-Confound it! (Damn it!)
-whining
+dog
+whine
 lodging
 unflattering
 cast
 associate
 snatch
-leap
+laughingstock
 villain
-stagger
+staggering
 utter
 bewilderment
 fancy
 racy
-rate
 appreciate
 blooming
 inrush
-linger
 laurels
 eminent
 imperturbable
 peer
- venture
+venture
 austere
 conjecture
 hatchet
@@ -301,7 +293,6 @@ feeble gait
 affably
 insidious
 sneer
-perplexed
 regard
 all-sufficient
 premature
@@ -318,39 +309,35 @@ dispel
 agitated
 entombed
 tin
-obtain
 ventilate
 reticence
 discretion
 peculiar
-shag
 whetstone
 interject
 huddle
-furrowed brow
-throe
+brow
 vexatious
 reverie
 whimsical
 submit
 speculation
 couple
-smug
+debilitate
 frisky
 gloomy
 snarl
 passing
 far-fetched
-tangled skein
+skein
 wolfhound
 endeavour
-grave
 staid
 apparently
 molest
 self-possession
-has every claim upon
-go over the ground
+tangle
+furrow
 due
 current
 courting
@@ -371,36 +358,26 @@ rank
 admirable
 ban
 banish
-affectionate
 reproach
 rigid
-grim remembrance
-night before last
-dull
-muffled
-peep out
+remembrance
+reindeer
+peep
 crouch
-spat out
-atrocious
+lookie loo
 utterly
-wit's end
+shortchange
 suggestive
 alienist
 cerebral
 bargain
 fiancee
-obscure
 recollection
 shell
-jackass
-impend
 blind
-frenzy
 window pane
 delusion
 deceive
-allusion
-thoroughly
 allude
 bearing
 irascible
@@ -410,7 +387,7 @@ albeit
 frantic
 inconsiderable
 hazy
-venture
+harass
 effrontery
 commend
 compound
@@ -436,7 +413,6 @@ gibber
 courtesy
 sulkily
 sulk
-amuse
 crude
 pant
 shrubs
@@ -444,7 +420,6 @@ abide
 creeper
 exploit
 blot
-ignoble
 constrain
 cross
 startled
@@ -460,44 +435,41 @@ rub
 accolade
 avenge
 reminisce
-bottle of vintage
+duh
 provisional
 grievance
 unruffled
 discreet
-bring matters to a head
-formidable
+icky
 premise
 scud
 dismal
-vigil
 ken
 emanate
 knuckle
 horny
 ivy
 agility
-sure of foot and firm of grasp
+grasp
 amusement
 deliberately
 pebbles
 prod
 flick
-impassive
 dignity
 rattle
 savage
-shrill falsetto
+falsetto
 fang
 uproar
-dress his torn throat
-carotid artery
+dress
+carotid
 hemorrhage
-take stock of situation
+throat
 confine
 recurrence
 phial
-hypodermic syringe
+hypodermic
 crabbled
 esteem
 enjoin
@@ -505,7 +477,6 @@ serum
 revelation
 strive
 impatious
-muse
 cesspool
 pastime
 stowaway
@@ -517,12 +488,9 @@ competence
 treacherous
 fickle
 virtue
-understudy
-by all means
-gaunt
+oblong
 wreath
 acrid
-halt
 transfix
 haven
 inferior
@@ -537,8 +505,7 @@ spindle
 locks
 fierce
 eager
-run to seed
-decent
+abacus
 slatterly
 remedy
 dingy
@@ -548,23 +515,19 @@ produce
 arresting
 securities
 dispose
-plunder
 fugitive
-brood
 tempest
 dart
-obtrude
 greengrocer
 miser
 exacting
 betimes
 crumbs
 dismiss
-be on hand
+on hand
 grave
 aloof
 preoccupied
-austere
 vicarage
 vicar
 crisis
@@ -584,18 +547,16 @@ condemn
 deserve 
 grumble
 clamor
-malevolent scowl
+malevolent
 strain
 hoarse
 claw
-bird of prey
+prey
 misshapen
 pellet
 takiturn
 ill-omened
-lament
 irregular
-compulsory
 virtually
 confession
 sore
@@ -606,20 +567,16 @@ scaffold
 invaluable
 throughout
 insight
-wretched
 niggard
 scheming
-frantic
 certainty
 halt
 inference
 conseal
 initial
 box office
-chart
 ascertain
-astute
-summon
+inn
 miscarriage
 awe
 burgle
@@ -633,7 +590,7 @@ spectacles
 foregathering
 foul play
 indelible
-poor devil
+pike
 bond
 elope
 relent
@@ -648,13 +605,11 @@ missappropriation
 pop out
 splice
 mantelpiece
-neat
 sleeve
 cuff
 sinewy
 forearm
 scar
-reconcile
 swell
 consciousness
 conscience
@@ -672,7 +627,6 @@ transcend
 earnestly
 morbid
 endow
-lean
 relish
 abstruse
 intricate
@@ -684,17 +638,16 @@ cordially
 exaltation
 tinge
 remonstrate
-tamper with
+tamper
 suppress
 didactic
 underlay
 will
-brier root
+brier
 suggest
 acknowledge
 cumpled
 profusion
-testify
 ardent
 fluff
 cabbage
@@ -710,9 +663,7 @@ superfluous
 mold
 adhere
 instep
-tread
 impertinent
-submit
 crestfallen
 snap
 rob
@@ -721,8 +672,7 @@ lustre
 descend
 prospect
 limp
-balance of probability
-inference
+probability
 dint
 interference
 cavalierly
@@ -735,7 +685,6 @@ groove
 wind
 hence
 dreary
-dismal
 unprofitable
 swirl
 exert
@@ -749,12 +698,11 @@ braid
 unbraided
 suspicion
 amiable
-singularly spiritual
+plaza
 refined
 complexion
-can not but
+dice
 agitation
-utterly
 glisten
 brisk
 lean
@@ -762,7 +710,7 @@ detain
 relapse
 etstablishment
 boarding
-in charge of
+lacerate
 infantry
 singular
 append
@@ -773,10 +721,8 @@ pronounce
 particular
 stationery
 fervent
-brisk
 disguised
 twirl
-resemblance
 speck
 bias
 antagonistic
@@ -787,10 +733,8 @@ vacillation
 self esteem
 martyrdom
 daring
-speculation
 plunge
 treatise
-eager
 fit
 obtuse
 heir
@@ -799,10 +743,9 @@ muffle
 cloak
 composed
 enterprise
-embark
 faded
 intently
-droop over
+droop
 mistry
 splotch
 feeble
@@ -825,34 +768,30 @@ accost
 parties
 dogged
 shrill
-street arab
-plunge
+bestiality
 errand
 hoax
 demeanor
 collected
 involved
-bearing
 dash
 tortuous
 forbidding
-tawdry
+bead
 staring
 interminable
 draw up
 incongruous
-Oriental
+oriental
 commonplace
 piping
 adolescence
 trespasser
 sordid
-fir-tree
+fir
 jerk
-scowl
 repose
 pendulous
-strive
 feebly
 obtrusive
 howl
@@ -863,15 +802,13 @@ hookah
 athwart
 airily
 unwarranted
-refrain
-strain
 callous
 settee
 inquiry
 taper
 discretion
 retiring
-shrink from
+pendulum
 genuine
 connoisseur
 partial
@@ -886,20 +823,18 @@ either
 subside
 greed
 avarice
-bias
 superlative
-thaw
 thaw
 admit
 paroxysm
 dusky
-stoop over
+stoop
 gash
 ponder
 steal in
 bolt
-none the wiser
-dispose of
+jumble
+underpin
 clunge
 restitution
 malevolence
@@ -911,7 +846,7 @@ rally
 carafe
 spawn
 poacher
-gall bladder
+gall
 embark
 strenuous
 trek
@@ -920,10 +855,10 @@ lush
 modest
 yield
 sediment
-sparsely populated
+sparse
 abound
 shroud
-reindeer herds
+herd
 privation
 hectic
 jowl
@@ -940,7 +875,7 @@ encompass
 teem
 rugged
 pristine
-rip up
+rip
 hoof
 alder
 calf
@@ -951,54 +886,53 @@ roe deer
 red deer
 contest
 inundation
-bragging rights
+keynote
 rivalry
 perish
 daunt
-take its toll
+populate
 toll
-Lighten up!
-starting lineup
+flip-flops
+lineup
 chicken pox
 sieve
 rehearse
 nerve
 elude
-I get shoes.
-fugitive
+flip-flop
 uptight
 rot
 janitor
-lousy
-feud
+stitch
+perceive
 issue
 booth
 yuck
 negate
 ternary
 starch
-thrift shop
+thrift
 let on
 laundromat
 blizzard
 lounge
-hand on to each other
+reinforcement
 deaf
-venture a guess
-dance to
+guess
+bewilderness
 slugger
-chop firewood
-How come?
+firewood
+plexus
 bug
 safety pin
 contribute
 cut
 subhuman
-get mugged
+mug
 stand
 after all
-You are certifiable.
-walnut casserole
+certifiable
+walnut
 stalk
 celery
 seduce
@@ -1006,25 +940,25 @@ decay
 pantyhose
 intermission
 phony
-I have been framed
-jello molds
-commit yourself
-postpone entry
+midget
+resuscitate
+farce
+postpone
 admission
-hit the sack
+entry
 object
 scholarship
 general practitioner
 mutilation
 so far
 gown
-cover tracks
+heed
 get hold of
 academic
 fall apart
-he knows better than do sth.
+duct
 at large
-sagacity
+outset
 delve
 whereabouts
 splendor
@@ -1042,23 +976,17 @@ peaky
 fragile
 compel
 incessantly
-allowance
 garret
 rafter
 heiress
 lead
-stammer
 downcast
-deaf
 babble
-interminable
 implore
 nostrum
-jerk
 damp
 rift
-gird
-was girt round
+girt round
 clamp
 gruff
 grumbling
@@ -1066,20 +994,15 @@ clanking
 perplexed
 inexorable
 genially
-wind
-plunge
-gloom
-ill at ease
+sentient
 sparkle
 thump
-shrill whimpering
-muffled
-peer
+whimpering
 cumber
-let mole loose
+mole
 prospector
 blubber
-pick fingers
+excerpt
 sorely
 pat
 whip out
@@ -1087,21 +1010,17 @@ smudge
 tapestry
 bolt
 recoil
-stoop
 shifty
-suspend
 countenance
 jar
 scowl
 contortion
 yield
-chamber
 fling
 stopper
 littered
 wicker
 trickle
-pungent
 tar
 lath
 litter
@@ -1111,10 +1030,8 @@ twine
 lashed on
 thorn
 spew
-speck
 wring
 querulous
-frenzy
 stumble
 ejaculate
 expound
@@ -1127,7 +1044,6 @@ crevice
 scale
 stout
 precept
-garret
 beam
 apex
 trap-door
@@ -1137,20 +1053,19 @@ foretell
 enshrine
 engross
 plot
-detract from
+detract
 instructive
 off-hand
-whip out
-furtive
+quilt
 sagacity
-exerting sagacity
+capitalize
 shire
 herring
 pungent
-rule of three
+endorsement
 accredited
 clamour
-rigor mortis
+rigor
 enticing
 unhinged
 hinge
@@ -1158,43 +1073,33 @@ drawn
 gingerly
 glaze
 blunt
-inference
-auxiliary
 retreat
 stride
-stout
 burly
 twinkle
 swollen
 puffy
 palpitate
-muffle
 husky
 warren
 wheeze
 own up
-hit the nail on the head
-sill
-fit
-splinter
+borked
 exult
 crestfall
 concern
 snapped
-worn away
-coarse sole
-sneer
+worn
+coarse
 succession
-mare's nest
+mare
 barel
 placid
-faint
-sorely
 conventionality
 disadvantage
 obtrude
 waist
-I stole a glance back
+sole
 tranquil
 rod
 stained glass
@@ -1207,38 +1112,31 @@ glint
 vagabond
 mongrel
 blossom
-kick a row
-kennel
+cliffhanger
 viper
 slam
 unbar
 lean
 lanky
-stoop
+porch
 stringy
-keep clear of
+demise
 badger
-take a nip
+nip
 stoat
 carnivorous
-slow worm
-fang
+buck
 hain't
 guy
 lane
-knock up
-peep
 cranny
 fowl
-solemn
 lurcher
 clumsy
 waddle
 gait
 seal
 lump
-struck
-accessory
 recline
 drape
 clamber
@@ -1246,16 +1144,15 @@ cramp
 tarry
 glow-worm
 ridge
-scuffling of feet
+scuffle
 tiles
 pouch
-wowen out
-tawdry beads
+weave
+tawdry
 string
 strung
 spine
 prick
-connoisseur
 before long
 tremulous
 trudge
@@ -1263,27 +1160,25 @@ leash
 patter
 forlorn
 trenche
-crevice
-reflect on
+reflect
 appease
 swerve
-waddle
-pungent
+hoard
+vendetta
 contend
 culpable
 palpable
-marvel at
-means
+hotshot
+picket fence
 patent
-above board
-in behalf of
+finesse
+porpoise
 sequel
 wrong
 concise
 tame
 deceiving
-so to speak
-flunk
+serrated
 blare
 picky
 exceedingly
@@ -1293,15 +1188,13 @@ derogatory
 pivot
 prat
 butler
-frenzy
 lest
 memento
 slay
 conceit
-afford indications
+indication
 confederate
-utterly
-get over it
+afford
 casket
 gimmick
 refuge
@@ -1318,10 +1211,9 @@ arrogance
 remittance
 smuggler
 skiper
-keep on
+fin
 envy
 substitute
-attire
 designated
 diaphanous
 brassiere
@@ -1329,9 +1221,9 @@ credentials
 breach
 intimidate
 homeroom
-be rattling people out 
+airfare
 grown up
-start a fad
+fad
 revolting
 gullible
 doof
@@ -1340,41 +1232,37 @@ testicles
 retaliate
 playbook
 thrilled
-ought not to
+muzzle
 dimwitted
 tater tots
 hobo
 dissociation
 elong
 brat
-It's been around a while.
-be around
-condemn
+snout
+around
 remedy
-You have the floor.
+one-off
 special ed
-admire
-boldly apply
+heron
+understated
 detest
-sew shut
+sew
 recess
 wreck
-morbid
 brag
-ban is lifted
+split
 fudge
 brisket
 dodge
 shrimp
-shrimp
-chase away
+chase
 lavatory
-Convenience store
+compendium
 itty bitty
-bifurcate
+coo
 resourcefulness
 encounter
-mitigate
 loose
 mee-maw
 affectionate
@@ -1390,149 +1278,135 @@ numbness
 scramble
 lap
 poach
-bet dollars to donuts
+copulation
 dumplings
 precautionary
-you bet
+molt
 sincerely
-Dang it!
-I was over it
+incandescent
+retrace
 dairy
 borrow
-minor
 rascal
 bail
 forgo
-keel over
+keel
 kaboom
 prescribe
 ribs
 stockpile
-my brush with death
+brush
 ebb
 raspy
 canned
 spit
-a scoop of soup
+scoop
 gravy
-pork chop
+chop
 agile
-bendy straw
+straw
 whir
-Coming up.
+reframe
 slurp
-he is wasting away
-coddle
+waste away
 shrink
 constipation
-right on
+vertex
 gabble
 onomatopoeia
 diaper
-help yourself
-button fly pants
+pipeline
+throughput
 estuary
 corduroy
 potbelly stove
-fuzz on peaches
+fuzz
 nag
 obscure
-went right over their heads
-Geez!
+pupa
+geez
 offensive
 allot
 punt
-Never you mind.
+combust
 tuck
 tousle
 bosom
-affectionate
 knock around
-You are grounded.
-time crunch
+scruples
+perdition
 outstanding
 sass
 inhibition
-cutting loose
-it is knocking me for a loop
-wind up
+cut loose
+navigable
 employ
 extricate
 tattle
 dapper
-scoop
+welfare
 versatile
 shin
 freshman
-boldly go
+advice
 nincompoop
 deterioration
-squat
 vault
-tantrum
-let it slide
-sufficient equity
-favourable terms
-tread lightly
+equity
+sufficient
+favourable
+sorcerer
 prone
 meltdown
-keep putting up
+put up
 loopy
-humiliate
-grind to a halt
+extension
 tummy
 ulcer
 leprosy
 gout
 mad cow
-out of spite
-for the time being
+slight
 mend
-straighten this thing
+misconstrue
+skim
 carsick
-exert
+trifle
 pitchover
 dispersion
 catch up
 contemplate
-stuck up for me
-Joe Sixpack
-You bet.
+teller
+obsession
+declare
 poke
 knock off
-brisket
-spit
-anticipation
-Gee!
-one of these days
+dodgeball
+weevil
 tubby
-slab
 cannonball
 boobie
 eavesdrop
 heap
-whipped
+ballot
 cranky
 dope
 feud
-stubborn
+messy
 ckricket
 chirp
-embark
-see fit
+capsize
 doomed
-rub
-ground coffee
+ground
 baste
 spritzing
 tend
 chicory
 soggy
-hold in low
-grunt
+spaniard
 cumin
 tablespoon
-potty training
+legibly
 knock up
 maiden
 fellowship
@@ -1543,41 +1417,37 @@ squirm
 gurgle
 reconcile
 in vain
-spring that on me
+rowboat
 oddball
 pal
 piddle
 catch on
 clog
-have crush on
+crush
 allowance
 spacecraft
-pinky swear
-up and at'em
-Shotgun!
+pinky
+volley
+swivel
 mandatory
 mediocrity
 armadillo
-expel
-twitch
+ore
 cracle
 hoot
 placate
 compassion
 concrete
 graspable
-splendid
 mean
-break wind
-mock
+contender
 term
 console
 regardless
 plush
-high and mighty
-be cut out for
+impale
+depose
 tutor
-tough
 obstruction
 simpleton
 conundrum
@@ -1594,50 +1464,46 @@ relinquish
 gal
 pop
 swoopy
-forge
-make amends
+amend
 deli
-bat for him
+deplete
 wee
-tossed around
-turn this down
+sedate
+muffler
 assess
 hilarious
-living arrangements
+arrangement
 tingle
-chuckle
-family lore
+lore
 weep
 accommodating
-hit it off
+buff
 filthy
 heirloom
 cherish
 wept
 impend
-tense
 dig in
 decapitate
-drift off
+drift
 haunted
 dumbbell
 lord
-gray matter
+catchy
 chute
 dagger
 dungeon
-summon
 pitchfork
 incantation
-wound up
-locked and loaded
+wind up
+derelict
 jackass
 amuse
 at stake
-come over
-You had that one coming.
+pipsqueak
+annex
 purview
-root and stem
+root
 pushback
 notion
 gospel
@@ -1646,13 +1512,12 @@ noggin
 terrific
 quail
 pointy
-every once in awhile
-confess sins
-let's not bring that up
+sin
+confess
+stem
 Howdy
 help out
-nibble
-get a kick out
+earthling
 commandment
 drool
 chickenpox
@@ -1667,13 +1532,13 @@ repent
 redemption
 beam
 snazzy
-floor model
+proxy
 insult
 pumpkin
 meddle
 set aside
 seamstress
-that was uncalled for
+uncalled
 earmuffs
 almanac
 exhale
@@ -1683,19 +1548,18 @@ earmark
 subtext
 inconvenience
 spat
-bowl of cereal
-occasional meat
+bowl
+cereal
 occasional
 affection
 inanimate
 lousy
 elaborate
-darn tootin'
+participle
 decomposition
-substitute
 spin-off
 prodigy
-nasal irritant
+nasal
 simile
 detention
 whip
@@ -1708,51 +1572,45 @@ act up
 slab
 roomful
 hoodlum
-mug
+alloy
 badass
 horseplay
-tickle
 suspended
 bartender
 rickets
-early-onset
+petrified
 rabies
 achy
-sore
 runny nose
 influensa
 strain
-wrap this up
+wrap up
 buffet
 hedge
 chores
 prairie
-due
-go potty
+porcupine
 sink
 feces
 lure
-take a crack
-whack off a head
+craftwork
+frustrate
 rattlesnake
-albeit
-mucus
-silver lining
+squad
+drain
 congestion
-elaborate
 potluck
-under the counter
+counter
 fat chance
-in the prime of life
-coddle
+egret
 sissy
 step up
 peruse
-right as rain
-have a peak
+godliness
+peek
 affliction
 befall
-reign supreme
+reign
 scrape
 splinter
 tweezer
@@ -1761,15 +1619,15 @@ gauze
 pluck
 naughty
 latchkey
-lend an ear
+supreme
 whatnot
 numb
 well-to-do
 light-headed
-endide
+painstakingly
 toddle
 toddler
-broomstick
+broom
 locker room
 spirited
 sophistication
@@ -1780,227 +1638,204 @@ dog
 creepy
 sedimentary
 rapport
-seduce
 ravine
-resemblance
 gypsum
 cleavage
 dorm
 bladder
-too-in-your-face
+gab
 commuter
 unbridled
-bubble up
+bubble
 possessed
 channel
 vertigo
 step stool
-stubborn
+orphanage
 trepidation
 hint
 baloney
 gymnasium
-neatly
 fiddle-faddle
-poodle poop
-claw
+poop
 tie
 disillusioned
 sign off
 frizzy
-spank
 firm
 scratchers
 disenchanted
 odd
-come on by
-have a hang on it
+regurgitate
+ventriloquist
 off-putting
 intercepted
 razzamatazz
 broach
 freak
-Break a leg!
+unleashed
 wretches
 bide
 pelting
 ragged
 daisies
 pasture
-stage fright
+stage
 full-blown
-knuckle
-pipe down
-compelling
+scuba
 adversarial
 interrogation
-fyi
+fright
 prosecute
 prosecutor
 late bloomer
-take after someone
+palpitations
 martial
-pant
 bowl
 sore
 roughhouse
 rustle
-pop
-they will take it out of him
-Got it covered
-pick on someone
-cover for
+perspiration
+hurdle
+pick on
+cover
 annoying
 tadpole
 tuck
-intimidate
 dump
 holier
-pick on someone
+malt
 pine
-tripp
+trip
 newshound
 cluck
 no-brainer
 coop
 lumpy
 mate
-take swing at
-perilous
-soaking wet
+swing
+soak
 diminutive
 mascot
-demeanor (US)
-demeanour (UK)
-mint chip
+chip
+canine
+litmus
 perturbate
 barn
 subtle
 sacrilegious
-put that off
-I'm digging it
-consent
+put off
+arboreal
+locomotion
 maroon
 meatloaf
-scholarship
-50$ a pop
+item
 feast
 mitigate
 spare
 accommodate
 stoker
-pen pals
-get situated
-double basket weave
+situate
+deplorable
 knit
 loom
 apron
 penmanship
-corneas and irises
+iris
 excited
-Pillsbury Doughboy
+cornea
 courtship
 appealing
-run out of room
+atrocity
 disclosure
-settle down
+cod
 reciprocated
-dodge a bullet
-jingle bell
-glint off
-by all means
+jingle
+glint
+vertebrate
 decept
-infantry
 recon
-acceleration due to gravity
-wander around
+ambassador
+highness
 repulsive
-cut crusts
-gated community
-he is teething
+crust
+gated
+relatable
 gum
 dizzy
 chamomile
 mutt
 stir
 gerbil
-apparently
-He pushed in a screen window.
+heft
+fracas
 rodent
 immaculate
-lure
 self righteous
 coward
 challenging
 infer
-terrific
-belly button lint
 cynophobia
-basic premise
-she is not crazy about you either
+premise
+diddle
 parishioner
 particularly
 beats me
 slammer
 mesmerising
-condemn
 sip
-surf meets the turf
-You got it.
+jugular
+pecs
 bib
 chunk
 pant leg
 breaststroke
 delightful
-O gauge
+gauge
 entice
-infer
-By all means
-role model
-thrilled
-look up to
-bottled up
+syringe
+tattletale
+wereboar
+flail
 underfoot
 conducive
-I chipped a tooth on a peach pit.
+pit
 wok
 trick
 turd
 preemie
 brace
 stuck up
-different tack
+tack
 sleepover
-take a page
-mean barbecue
-little family over
+piercing
+virility
+tarmac
 utencil
 rival
 peril
-teem
-integral part
-garlic
-burps
-agitated
-peas pod
+integral
+malign
+burp
+pod
 hamstring
 machismo
 trimmings
 prude
-it askew in my groin
-playing the field
-bagels
-tougher
-it's the other way around
-guilted and embossed paper
-brillo pad
-dinette set
+askew
+encroachment
+defunct
+tough
+dinette
+nuisance
+encumbrence
+set
 derriere
 beholden
-expansion leaf
+expand
 mourn
 lovesick
-I had to look that one up.
+pinecone
 exhilarating
 chivalrous
 epiphany
@@ -2012,234 +1847,215 @@ slip
 cutlery
 wrestle
 hum
-skin crawl
+handmaid
 disembowel
 mysterious
 giggle
-He wouldn't listen.
+marigold
 needy
 quivering
 stain
-damned spot
+legislature
 rumble
 tangle
 reap
 customary
-brave the elements
+element
 mug
-lounge
-bench a linebreaker
-flunk
-locker room
+brave
+crease
 neck
 coloquial
 foible
 depreciate
-hinge on
+bombshell
 derive
 octet
 uterus
 knot
 rule out
 relate
-to be winging it
+liaison
 squeal
 sac
-blow a raspberry
-excruciating
+juror
 excruciate
 flatly
 brewing
-belt buckle
-binder clip
+belt
+binder
 crooked
-dumb down
-spelling bee contest
-make out
-grab a straw
+dumb
+vocational
+outback
+clever
 sermon
 hangover
-nail this down
+paragon
 growl
 precious
 slugger
-clothing drive
-big time
+incontinent
+fleece
 lullaby
 backfire
 warp
-you are most welcome
+clip
 sniff
 beverage
-heck yeah
+heck
 cocky
 casserole
 contagious
 ticks
-share credit
+credit
 ambiguous
-be cool
+cool
 six-pack
 abrupt
 interjection
 expenditures
-write that off
+write off
 miscellaneous
 peas
 intestine
-bowel
 colon
-bowel movement
+sensible
 potty
 hold out
-come clean
-rat me out
-children's rate
-tickle
+legacy
+helm
+rate
 sting
 apprehend
 come up
 holler
 gruesome
-pungent condiment
+condiment
 raisins
 zipper
 deception
 warlord
-assume the position
+bunion
 sordid
 creak
-utmost courtesy
-grunt
-gulps
+utmost
+gulp
 bunch
 impaired
 bail out
-dangle
-hanging by a thread
+cuckold
 turn in
-he stumbles over to
+showcase
 irrigate
-be content to
+lorry
 come to pass
-fraternal twins
-geez
-poking and prodding
-kids are pitching in
+deliverance
+prod
+pitch in
 bucket
 rinse off
 generous
 comb
-temper tantrum
+tantrum
 even-keeled
-slam the door off its hinge
-lamb chop
-get cracking
+testimony
+lamb
+pork
 shrink
 kudos
 tushy
 accentuate
-buttocks
 syllogism
-meter is running
-dignity
+meter
 get down
 deprive
 poppycock
 insightful
 perceptive
-go figure
-fuzzing around
+figure
+ice-ax
 blabbermouth
-per diem
+temper
 prohibition
 encroach
 seizures
 ingest
 excess
-slough off
-cardiac arrests
+slough
+cardiac
 fracture
 sludge
-swell
 nausea
 marrow
 slop
 ominous
-hoot (inf)
+hoot
 swing
 pillory
-stir up quite a bit controversy
-wages of sin
-gruesome
-call it a night
-tag (inf)
+foist
+malicious
+interim
+tad
 scoff
 chatter
 flair
 props
 vividly
-peril
 gore
 mount
-haunted house
+midwife
 gluttony
 lust
 sloth
-wrath
-greed
+embossed
 spooky
-sincerity and charm
+charm
 chackle
 golly
 caw
-wheel and deal
-pick your brain
+perineum
+harsh
 fetch
-gasp
-No. Go for it.
+sincerity
 unquenchable
 clock-full
 chock
-eerie
-cast from
-bear witness
-come over
-take a ganger
+marooned
+witness
+gander
+boatload
 cape
-boatload of converts
+convert
 glum
 whimp
-tawdry
+firearm
 vindication
 stuff
-peach cobbler
+sanction
 mullet
 starfleet
 entitle
-impersonate a lump clay
-gard sale
-chop down
-sticking point
+impersonate
+installment
+cave in
 haggle
-squat (inf)
+squat
 steep
 apiece
-factor that in
-You all drive a hard bargain.
-wander off
-huddle
+factor in
+spackle
+wander
 hubby
 cobbler
-kick this offt
-zippo (slang)
-suit yourself
+dashing
+zippo
+dilly-dally
 fascinating
 humdinger
-hand over fist
+muddle
 reminiscent
 darn
-confide
 establish
 screech
 grunt
@@ -2251,950 +2067,821 @@ covet
 amusing
 juxtaposition
 tickle
-snazzy
-pointy
-you are in charge
+malice
 reckless
 coverall
 winded
 sumbitches
 grease
-purview
-shut your yap
-call in sick
-I get tackled
+yap
+bassinet
+tackle
 slingshot
 flute
 fibber
 chitchat
-he is acquired taste
 track down
 hooky
 offence
-thrilled
-dungeon
-you are up for it
+reinforce
 first-off
 puncture
-scoop him up
-pull a groin muscle
+oust
+groin
 goosebumps
 bicentennial
 elective
 reluctantly
-have a shot at
+shot
 lippy
 commute
-I wasn't going to commute
-pathetic
-I don't think it is in the cards
+unfurl
+caveat
 thesaurus
-crestfallen
 chagrined
-mole on my hip
-club foot
-wrap it up
+club
+disarray
+wasteland
 concur
 reassert
-tin can
+legislation
 sputter
-put your foot down on that
+steadfast
 pass out
 escalate
 storm out
 brutalize
-astute
+portend
 olfactory
-I turned it down
-block with new kids on it
-you will never hear the end of it
-sleeping quarters
-extra credit
-burp
-hubba hubba
-crept up
-creep up
-leave you out of
+draft
+acquire
+joint
+berserk
+back-to-back
+recluse
+innocuous
+primary
+pinnacle
 herbivores
 misfit
-stunted childhood
+stunt
 ample
 cello
-I for one
+cultivar
 goof off
-horseplay
 shenanigan
 maladjusted
 paraphernalia
-rack
-let me down
+cap
 wobbly
 reciprocate
 antic
-madcap prankster
-repent
+prank
 bidding
 simian
 repentance
-whir
-Got to love him
+incumbent
 savior
-bass player
-skinny dipping
-bug
-cabbage patch
+ghoulish
+continuity
+tally
 trove
 dunked
 crank out
-craps table
+strafe
 heads up
 randiness
 clink
-Whip her with a rubber hose?
+somber
 administer
 tricky
 inflict
 dunk
-wade in the water
+wade
 pigtail
 jerk
 fidelity
-hence
 close call
 blister
 scurvy
 fever
 quadrilateral
 inscribed
-cyclic polygon
-groan
+polygon
 reprieve
-bowel movement
-effervescent ginger ale
-flat drink
+ginger
+effervescent
+limber
 indulgent
 insurgent
 fuss
 dote on
-it has done right to me
+encampment
 puberty
-gallbladder
-administer
+assembly
 incision
-snatch
-snatch out
-a bowl of gruel
+snappy
+shuttle
+gruel
 formidable
-doofus
 ridiculous
 adamant
 pulp
-strain
-contagious
 stall
-put up with
-You get my drift?
-bang heads together
+steer
+reluctant
+hefty
 band-aid
-faint
 major
 chime
 celestial
 guilt-ridden
 lavish
-combustible gas
+combustible
 incinerate
 supervise
 receptacle
 hazardous
 obligation
-imply
 implicitly
 procure
 obscene
 obliterate
-splinter
 opaque
 saucy
 camelid
 camelidae
 vicuna
-That's kind of what I'm getteng at.
+delude
 obtain
 query
 curl up
-curled up in a ball
+pinion
 figment
-he is just crushed
 mediocre
-fricking fascinating
 turned on
-flat-out erotic
-cool your jets
+flat out
 screech
-sediment
-defy odds
+defy
 intimidation
 threats
 altercation
 confrontation
-tussle
-incur your wrath
+man up
 incur
 punk
-hit on my girlfriend
-overly chummy
+hit on
+chummy
 bottom
-plaintiffs
-lamb
+plaintiff
 swipe
 blush
 dud
-resent
-mucus or phlegm
+mucus
 takeaway
-apparently
-so much so
-spirited
-student body
-I was no stranger to
-wind sprint
-adamant
+unmoor
+wharf
+body
+gams
+whoremonger
 boast
 jam
-prattle
+holistic
 cheer
 brawl
 sling
 step down
-stand up to 
+assault
 inevitably
 back down
-assault and battery
-I nailed it
+battery
+resilient
 excellence
-terrific
-don't sweat it
-patootie (slang)
+miserable
+patootie
 permeability
-come down with
-snatch
+come down
 perky
 percolator
 counselling
-convex polygon
+convex
 newlyweds
-I'll never know
+spout
 fill in
-dig=like
-elaborate
+dig
 gingham
 wooing
 dotingly
 nightstand
 hunky-dory
-bring it on
-limp
+heckle
 diminish
-hackles up
-berating him
-jackass
+hackles
 shut-in
-lose a step
+hackle
 impasse
-give him a pass
+homicidal
 congregation
 congregate
-expel
+exhaust
 rye
-Is anybody going to fill me in?
+micaceous
 hearth
 hacksaw
 sniffle
 womanhood
 rotten
-Denmark
-taste buds
-grab a bite to eat
+schist
+mush
+cilia
 convenient
-convenience store
+pawn off
 subsidiary
 acquisition
 pastry
-coward
-fascinating
-on behalf of
-baker's dozen
+conscientious
+slander
+behalf
+shtup
 commie
 hatch
 trait
-It will all blow over
-frustrate
-get bent out of shape
-thanks for having me
-get ahead of yourself
-behind counter
-discreet
+blow over
+embankment
+expedient
+elderberry
+predilection
+clout
 fertile
 flip out
-set bar high
-malt
-highness
-pick on you
-zip your feet open
-How far along are you?
-I was a little thrown too
+guideline
+outgoing
+pen
+decomiss
+impostor
+decisive
+creep
 coaster
 crochet
 prowess
-confine
 fiddle
 wherefore
-be in charge of
+census
 emulate
 come around
-persuade
-have to come to love
+obligatory
 aptitude
 preliminary
-neat
-pitched a perfect game
-push for this
+drawers
+push for
 conk
 well-tended
 absentminded
 giddy
 praying mantis
-what you up to
-resemble us
+upholstery
+resemble
 astonishingly
 jot down
 thimble
-pooh to you
+pooh
 flint
 puddle
 yakking
 vowel
 epiphanies
 rhubarb
-rain check
+legitimate
 concussion
 decent
-beverage
 oomph
 saliva
 squishy
 tackle
 dummies
 infringe
-lodge complaint
-school board
+lodge
+nettles
 bloodlust
 serendipitous
-run for president
-water off a duck's back
-a shot of winning
+yolk
+underway
+miscreant
 affinity
 impeccable
 strand
 weak-kneed
-retaliate
 lice
-resort to
-decisive
-he creeps me out
-hurdle
-perspiration
-palpitations
-unleashed
-ventriloquist
-gab
-assembly
-bladder
-it dawned on me
+resort
+valor
+seasoned
+lineage
+belligerent
+crashout
+emancipate
+foliage
+potable
+maritime
+flimsy
+plausibly
 pep
-aspire
-stoop to her level
+expeditiously
 treasurer
 heckling
-whoop
 booing
 pennant
 cologne
-olfactory
 seal
-communicate his qualities
-static cling
+communicate
+overstep
 peachy
-Popsicle
+popsicle
 glitter
 bring up
 compatible
-predecease you
+predecease
 dresser
-we will get cozy
-hibiscus tea
-I get you
+cozy
 disconcert
-horse whickering
 put down
-Thanks for stopping by
+churn
+bawdy
+limerick
+fern
 bum
-catch up with
 commitment
-You betcha!
 pun
-rough patch
+outhouse
+thoroughbred
 unconditional
 perilous
 jinx
 buzzer
 impose
-chamomile
 nether
 adorable
-taper off
+technique
 ace
 jukebox
-it is tax deductible
+fritter
 deduct
 trod
-cranky
-constitute a problem
-strap on some bibs
+specious
+constitute
 parish
-perish
 prosperous
 sound
 spellbinding
-starch
-his due
+crop out
 propagation
 root for
 jabbering
-better yet
+hackneyed
 diuretic
 weeding
 spelunking
 refreshments
-he tripped off an alarm
+still life
 dean
 scone
-cereal
 scuffle
 startle
 dickens
-Keep your shirt on.
-peculiar
-long overdue
+squash
+overdue
 appropriate
-festivities
-Not by a long shot
-faintly
-room and board
+emcee
+stranded
 neigh
 behoove
-premise
-has concluded its meeting
-frenzy
+plume
 prolific
-revolting
-contagious
-come up with
-You gotta get in on this
-roll in
+temerity
+merchandise
+extremities
 cheeky
 impudent
-exasperation
 concession
 strides
-roll in
-he was from the get go
-she is unraveling
-stocking stuffer
-give a boot
-preoccupied
-grants wishes
-Are you mental?
-lunatic
+stuffer
+stockings
+grant
 sled
-You're up to speed?
+taffy
+veg out
+lead on
+dissent
+treason
 blindfold
 affiliate
 amendment
 conjunction
 wording
 toil
-stoke fire
+stoke
 worship
-I was just fixing to head out
-discharge firearm
+fix to
+discharge
 muskrat
 matrimony
 bummer
-solution
 homogeneous
 solute
 solvent
-succumb
-broom closet
-contribute
-foot rub
-Whoa
+closet
+whoa
 suspenseful
-What prompted it?
+arch-nemesis
+entwine
 prompt
-freshman
 juvie
-make stuff up
+make up
 swat
 necklace
 dork
-I went out of my way to buy
-we were at odds
-whereabouts
+misty
+at odds
 shroud
 loophole
 wail
-state troopers
-law enforcement
+troops
+enforcement
 nodule
-unified field theory
+imminent
 crayon
 fill up
 snotty
-if you are off to war
-follow through
+relative
+ooze
 zip
 natural
 pivot
-relative pronoun
+pronoun
 seam
-flick
 stitch
 definitely
 rectify
 unwind
 commit
-thrilled
-darn
-they are out front
+goods
 stigmatize
 disturbed
 discharged
 nightcap
-growl
 catch
 matchmaker
-he has your best interests at heart
 hospitality
-Here's to surprises.
+whisk
+hemp
 spite
 establishment
 acquaintance
-I am damaged goods.
+damage
 whimsy
 woe
 adventurous
 solace
 bosom
-cop a squat
-cranky
-Will she get over it?
+serendipity
+thrifty
+yurt
 willies
-I am content
-badger me
+oblivious
+badger
 pity
-I can look into it.
-step stool
+look into
+irate
 torch
 bumblebee
-we got off on the wrong foot
+rue
 obligated
 facilitate
-naughty
-flimsy
-pick on
-I get to wander around
-bucket
-recess
-dock foreman
+gale
+limestone
+compulsion
+foreman
 boobs
-chirp
 devolve
 dung
 top off
 conflate
 woefully
-riled up
+riled
 rebuttal
 merit
 concede
 validity
-savage
 ejected
 sprinkle
 reverence
 puck
-affection
-threw up in glove compartment
-enroll full time
+aussie
+enroll
 incentive
 rod
 solid
-ring up
+ring
 catfish
-You bet.
+wiener
 kickback
 succumb
-greed
 hereditary
 apply
 appliance
 stitches
 gobbledygook
 relent
-ripe old age
+ripe
 layaway
 disembodied
-rivaling
 doozy
-assume
+inadmissible
 suppose
-darn tooting
 kickoff
-Let's hit the road.
-grapes
-fascinating
-I see.
-profoundly
-scrunched up
-pinched face
 check in
+crinkle
+grapes
+pox
+guardian
+profoundly
+scrunched
+pinch
+check
 throw up
 delinquent
 bullying
-eye-pecking
 peck
-take it up with
-he won't return my calls
-so far so good
-He is worked up about
+peck
+worked up
 body of water
-hang me up to dry
+cranial
+consign
+misogyny
 finch
 suitor
 browse
-tantrum
 bug
 strained
 give away
 phlegm
 tissue
-fib
-gotten away with it
+parting
 quirky
-under the weather
+wonky
+absolve
 crotch
 deceit
-naughty
-made up for it
+suit
 suit up
 slack
-He knock her up?
+helper
 peeved
-pick up the slack
-startle
 centerpiece
 plain
-peck
+spellbinder
 skimp
 stale
 officiate
-aisle
-I have bone to pick with you, Sir
-admire
+thumb
 urges
-have gotten off a rough start
-practice drills
-top notch
-Beam your ass out of here.
-neat
-solemn vows
+drill
+notch
+diligence
+retardant
+function
+raconteur
 dingus
 aggravation
-rub
-leap into
-derogatory
+frazzle
 jet ski
-drown out
+drown
 broiled
-cranky
+coincide
 busted
 accessory
 ward
 mole
 in labor
 petroleum jelly
-racial slur
 incentivize
-boast
 humiliate
-swing
+brink
 mug
-hoist
 mean
 bow out
 appetizer
 goofy
-let me tag along
+tag along
 placard
-merit badges
-jocular insult
+merit
+jocular
 token
-I can dish it right back
+rack
 bed-wetter
-cinnamon
-players will tie
-spice rack
 dill
-bragging
-swat them away
-pull a leg
+postgraduate
+lay off
+gild
+lanyard
+swat away
 graciously
 wedge
 disparage
-piddle
 alterate
 hearing aid
 outing
-expelled in the exhaust
+expel
 apt
-slump
-mourn
+clay
 garbage can
-knees bent
+pottery
 colander
 sift
 flux
 lead
 kiln
 plum
-pottery kiln
-collection plate
-fibber
-sacrilegious
+pottery 
+collection
 chump
-good luck charm
+longshoreman
 nudge
 induce
-delve
-assess
 emphasize
 weighted
 fathom
 cavern
-gone for good
+for good
 eliminate
 aptly
 imprint
 clunk
-peer into
+peer
 perpetrator
 calamitous
 pesky
 stark
 dwindle
 jug
-I'm messing with you
-aversion
+intimate
 funnel
-I'm around tomorrow
+tibia
 sneaky
-bubble bath
+currant
 dormitory
-soiled
 hailstorm
 charmer
 ribald
-help yourself
+extrude
 keg
-win over
-follow up question
-I'm due
-summon
+rush
+par
+tribute
 booger
-let's nail this down
+ensnare
 layover
-turd
-come over
+castaway
 doldrum
 jaunty
-sweater-vest
-Aye
+vest
+aye
 distract
-he puts on a heck of a show
+put on
 screwup
 ditch
 sleep through
 attendants
 prevail
-notion
 unbuckled
 nauseous
 retch
 cookout
 gem
-excess
-bonehead
-calf
 grumpy
 downtrodden
 dismissed
 outrage
 footnotes
-hazy
-rob someone blind
 apparel
 bonnet
 mold
-spit the difference
+frown line
+sear
 allegation
-forensic examination
+forensic
 supervisor
 fondness
 jeopardize
 arrogantly
-entitle
 detrimental
-tattle
-bruised ribs
+bruise
 collarbone
 clobber
 put out
 incorporate
-rascal
 nutty
-get along
-jackass
+rant
 stamina
-committed relationship
-sulk
+bigot
 suffocate
-drop dead
+sidebar
 chime in
-I had a falling out
-I will circle back to her
+sonorus
+bud
 garlic
-got through to him
+get through
 disclose
-jeopardize
-was marred
+reservation
+marred
 vile-smelling
 shifty
 fork over
-lucky break
-cranky
+glutes
+foreclose
 shred
 goony
-get your way
+wiggle
 wiles
 understudy
 deem
-flatter
 crank away
 hot tub
 zinger
 sensation
 payroll
-he'll come around
+quote
 extract
 stubborn
 envision
-whisk you off
+whisk
 pickle
-sludge
 dandy
-that makes two of us
 thrill
-bubble wrap
-intestine
+caress
+swatch
 assert
 yearn
 lowly
-accessory
 grad school
-spat
-plead a case
-I'll chip in
+sebaceous
+plead
+lull
 shed
-root for
 whopping
-rival
 reimbursement
-Way to go!
+podunk
 cranky
 seeing eye dog
 mild
 pink eye
 tape
 pitcher
-rascal
 cleats
-your sound on the fence
 impending
-dust the picture
-it got me out of driving
-report for duty
+dust
+surly
+pitch
+cayenne
 contribute
 soot
-Have at it!
+scald
 anticlimactic
 chug
-drop chute
 drop chute toilet
-aisle
-yarn
-cast on
+comport
 spell
 jock
 icicle
 bouncer
-slingshot
 nogging
 jig
-leash
 swoll
-fracture
-in a cast
+cast
 deface
-join ranks
-beef jerky
+jerky
 adversity
 crankiness
 dampen
 bitchin
 ulna
-I was fixing to
+beef
 trivia
 emphasis
-trash talk
+aftershave
 chariot
 polyhedral
-slab
-poke around
+knickers
 mother-in-law
-put up with
-musty crypt
+musty
+crypt
 booby-trapped
 inadvertently
 apricot
-dismissive snort
+dismissive
 peel
-you turned me down flat
+renal
 calloused
 spectacular
-plum
 graft
 anticipate
 plaid
@@ -3202,61 +2889,50 @@ obnoxious
 condescending
 mortify
 curveballs
-break the mold
-call for
+slur
+chant
 waylaid
-setback
 forge
-forge ahead
+bystander
 walrus
-admission
 bound
 abundantly
 sassy
 contempt
-call it a day
-acquisition
+antler
 smirch
-incessant yammering
-pressing
+incessant
+matter
 genealogy
 plot
-contemplate the furtility
 haul
 flunk
 epistemology
 bawl
-snap out of it
+snap out of
 beguiling
 oatmeal
 cynicism
 yelp
 olden
-bummer
-acumen
 repercussions
 prattle
 trot out
 upkeep
-scholarship
-get by with
+get by
 head count
-organ grinder's monkey
-rallies
+organ grinder
+rally
 rookie
 footloose
 overalls
-leap
+aspersion
 belly button
 devise
 folly
 thingy
 magnitude
-repulsive force
-bobblehead
-toil
-rabies
-plaintiff
+yammer
 bailiff
 stingy
 persuasion
@@ -3265,80 +2941,70 @@ besmirch
 flattery
 hunched
 hounding
-persuade
 relentless
-grease
 pizazz
 tedious
 menial
 crate
 strip
 sweep up
-commitment
 grouchy
 vigor
-reaction rate
-hay bales
-boilerplate legalese
-stammer
-dingy
-hatch
+rate
+hay
+boilerplate
 undeterred
 saddle up
-Rustle up some muscles
+rustle up
 loafers
-Carry on
 glitz
-Happy trails
 rebut
-I missed this
 jumbo
 suspend
-I drove past
-heart pounding
+articulated
+buffoon
+wrongful
+hydrangea
+pound
 junkie
 scintillate
 adhesive
-hit the john
-barbed wire
+legalese
+barbed
 chopstick
 bravado
 keychain
-dagger
 geezer
 commencement
 shuttle service
 get around
-shrivelled up
+shrivell
 grim
-gobble up
+gobble
 hard candy
 catch fire
-destitute
-don't test me
+test
 preposterous
 coast
-Beat it!
+vigorously
 feisty
 cordial
 irritable
-don't push it
-why rob her of that
-well-rounded individual
+adverb
+admonish
+well-rounded
 coax
-work around the clock
-crave
+around the clock
 rare
 lettuce
 tampering
 leap
-fair skin
+fair
 leechers
-pool cue
-beat us to the punch
+pool
+cue
 checkup
 broad
-impeccable
 ass
 showdown
 deductions
@@ -3346,44 +3012,38 @@ itemized
 justify
 well-versed
 smug
-pep
-contend
-insidious
+infinitive
 upend
-I nailed it
-контрабанда
+preposition
+bootleg
 wrapped 
 deck
 tramp
 bickering
-you put me on the spot
+sod
 boon
 bask
 enroll
 thigh
 perm
 foxy
-make a fuss over
+sweet tooth
 substandard
 settle
 pouty
 unrequited
-aggravation
 flutter
 requited
-pucker up
-tickle
+pucker
 spiffy
-chime
-hoot
+clingy
 carve
 lurch
-petty
 mop
 orthodox
 hallow
-pick on
-what are you getting at
+domain
+avail
 maelstrom
 pacifier
 hump
@@ -3392,32 +3052,24 @@ stumper
 binding
 tetanus
 rink
-angina pectoris
-accomplice
-get winded
-devolve
+angina
 maintain
 hide
 quandary
-Hangin in.
-incentive
 enforce
 horrendous
 burrow
 foreshadow
-run it over
-a little out of it
+scrounge
+muse
 dazzling 
-wry musings
-jet lag
+wry
 slither
-rec room
+selfless
+closeted
 off guard
 polecat
-squirm
 curb
-redeem
-commandment
 snoop
 tick
 blab
@@ -3428,14 +3080,12 @@ soar
 elusive
 patronize
 faculty mixer
-talk some sense into
-apron
+greyhound
 content
 crunchy
 scramble
 pan out
 pamphlet
-ditch
 drop out
 nurture
 destined
@@ -3446,135 +3096,123 @@ affinity
 sudsy
 tab
 cash out
-close up for good
+mink
 utensil
-legal pad
+juggle
 skedaddle
 faux
 thorough
-down the line
+tax
 speakeasy
 rhinestones
-tumble dry
-science posse
+tumble
+posse
 tidbits
 superstition
 concubine
-get over it
-spiffy
-chime in
+incapacitate
+lentil
 aphid
 procreation
 intercourse
-stammer
 abstinence
-doozy
-naughty
 tizzy
-incur goodwill
+spar
 fornicate
 bland
 hereby
 coined
 ask out
 rebound
-you fancy yourself
-call the shots
-con man
-give it a shot
 crackpot
-eat crow
 sack
-go south
-mug
-scoring goals
+score
+goal
+supercharge
+resort
+spent
+escrow
+talk up
+mudslide
 distinguish
 antagonism
 derivative
-merit
-take a bath
-storied history
+consideration
+contingency
 midterms
 glob
 trudge
-keel over
+groundwork
 sincere
 willy nilly
-intimidate
 recliner
 bleak
 enthralling
 asset
 tenure
 fall off
-dismissed
+snort
 scrub
-exasperation
 crabby
 hose 
 coddle
-get bent out of shape
+boorish
 pout
-take charge
+abolish
 excitation
-chip on a shoulder
-smug
+waterfront
+spearhead
 majors
-pick up on
+pick up
 cog
 untapped
 dig 
-go down swinging
+wet
 shebang
 parlor
 booze
 luminarie
-on the off chance
+off chance
 deploy
 gravitas
-rip the lid off
+gawk
 scoop
 alley
-butt out
+skit
 budge
-I've been had.
+stench
 integrity
 barge into
-detrimental
 barf
 homewrecker
 yips
-cobbler
+mousy
 thud
 onset
-big whoop
+whoop
 faucet
 pop over
 hitch up
-I am blanking
-tingle
-extolled by the sages
-I zoned out
+cupboard
+extoll
+pontificate
 sage
 jiggle
 buffing
-school board
+board
 vicariously
 sap
 lumbar
 downtime
 parlay
 accommodating
-yuck
 arrogant
-deference
-entitled brat
+entitle
 shallow
 till
-subordinate
 rash
 scabies
-ace
+shindig
 squabble
 goof-off
 chaperone
@@ -3583,21 +3221,19 @@ rayon
 soak
 dibs
 sardines
-hilarious
 filing cabinet
 stash
 linebacker
 cowpoke
 knack
-buckle down
-congregate
+acquittal
 collegiate
 putter
 slather
 exfoliate
 raffle
 pusillanimous
-fascinating
+clemency
 take a gander
 fisticuffs
 reveler
@@ -3606,149 +3242,132 @@ emollient
 oozy
 blasting 
 tights
-pitchfork 
+tycoon
 put out
 hook up
-things are looking up
+look up
 delight
 surrender
-collarbone
-coaster
 chest
 bout
 tussle
 hinder
-vote of confidence
 feeble 
-Them's the breaks
+pry out
+worrywart
 impugn
 outmoded
-I swoop in
-wiles
+swoop
 splurge
-for crying out loud
+unduly
 mere
 strangle
 umbilical cord
 essentially
 pimple
-pizza face
-wage a war
-lighten the mood
+cormorant
+cot
+vacate
 curb
-prevail
-bum a ride
+shoal
 swap
 snot
-pressing matters
+pressing
 reluctance
 absent-minded
 tranquility
 coffin
 shifter
 sendoff
-keep on toes
+lease
 tangent
 take over
-float the idea
+colliery
 fumble
 handout
 revel
-giddy
 thriving
-rest assured
+lend
 shack
 butterscotch
 trunk
 savor
 bolster
-slump
-nip
-nip at heels
-tycoon
-pitcher
-thriving
+abomination
+drawer
+arrest
+bastardization
+disperse
 infestation
 rite
 dazzle
-chaperone
-trot out
+blurb
 stiflingly
 freak out
-Jack squat
+violin
 snitch
 pad
-frantic
-prolific
 nightfall
-at this rate
-go over your head
+urchin
+sconce
 bonk
 doze off
 compelling
-reminiscent
-palpable
 resplendent
-sausage party
+underwhelmed
 champ
 wedlock
 cling
-lead time
-roll in in a moment's notice
+stoked
+hallmark
 eager
 bozo
 upbringing
-matrimony
 incremental
 proprietary
 creek
-to get your take on
+boxcar
 bambino
 expletive 
 workaround
-duck calls
-make up for
+duck
+make up
 yank
-jim dandy
-safe to assume
-bump into
-business at hand
-holy roller
-we are held to
-oatmeal
-poppy seed bagel
+penchant
+cryptic
+bump
+at hand
+hold to
+scalene
+poppy seed
 sunblock
-I'll trade you.
-got a handle on
+concavity
+isosceles
 pus
 signpost
 zit
-dash hopes
 litigation
-mark up
+roving
+dispensary
 strife
 strapping
 buckle
 classifieds
-sulk
-hell bent
+boondocks
 commodity
-payroll
 groovy
 customs
 smuggling
 plead
-post a bond
 loiter
-he is going out of his way
 table
-running on fumes
+rattle
+fiddle with
+blockhead
 vivacious
-giddy
 nuptials
 bastard
 imply
-swerve
 butter up
 abundant
 quandaries
@@ -3758,14 +3377,13 @@ swoon
 waltz
 mitts
 whim
-vicinity of
+vicinity
 frontier
-it rattled you
-envy
+frantically
 counterfeiting
 sow
-toss 
-hot diggity dog
+leeway
+birch
 nunnery
 stud
 dog-ear
@@ -3776,20 +3394,16 @@ evict
 gutter
 barbell
 queasy
-frisky
 once-over
 ankle
-Knock yourself up
-strong suit
-He's got them down cold
+sterling
+dinky
+scarlet
 bifurcate
 confide
 knucklehead
-pickle
-preposterous
-enterprise
-tattle
-I'll get right on it.
+blip
+scrum
 compile
 infraction
 lumberjack
@@ -3799,26 +3413,26 @@ badge
 attest
 bestow
 mayhem
-the night's still young
+belatedly
 minor
 hankering
 mash
-I got to tinkle.
+tinkle
 shakedown
 denote
-blow over
-throw in the towel
+sleek
+infamy
 lint
 aspire
-bust a butt
-bulletin board
+bust
+frigid
 riveting
-message board
+vista
 burgeoning
 buckshot
-It all worked out
-follow suit
-water under the bridge
+menorah
+picket
+clammy
 undertaking
 broker
 chart
@@ -3830,19 +3444,19 @@ pawn
 pious
 blackmail
 handouts
-pitch
+concoct
 swim trunks
 scoot
 scurry
-take the mean
+fondly
 lucrative
 sabbatical
-part-time endeavor
+part-time
 noodles
 wet nurse
 flea
-tee time
-pick a fight
+snug
+persevere
 butt in
 dye
 outbid
@@ -3853,42 +3467,37 @@ banter
 fuse
 engrave
 subpoena
-drool
+harness
 loot
 percussion
 abysmal
 inebriated
-I dare you
 gainfully
-charley horse
+shaft
 depravity
 cramp
 carousing
-repercussions
 frat
 pry
-station wagon
-tend
+fins
 dilate
 clunker
-laughingstock
 back to back
 prolate
 well-meaning
 conceive
 inebriate
 lam
-of the blue
+brimstone
 sorcery
 mermaid
 overlook
-purple nurple
+tack on
 vendor
 cogitate
 lather
 cheat sheet
 cue
-strangle
 homesick
 tinfoil
 intrepid
@@ -3922,7 +3531,6 @@ plane
 slit
 renege
 proffer
-trip
 clavicle
 laxative
 spoof
@@ -3932,13 +3540,11 @@ Sagittarius
 arbitrary 
 constellation
 carnal
-hinder
 hitch
 aftermath
 intercom
 veritable
 frosted
-puffy
 carbohydrate
 rife with
 predicate
@@ -3946,10 +3552,7 @@ feat
 dolly
 fulcrum
 flatware
-tray
-immaculate
 adjacent
-splendidly
 pelvis
 intoxicating
 dowel
@@ -3961,18 +3564,14 @@ slash
 prehensile
 rogue
 propensity
-infatuation
 quibble
 stipulate
 extraneous
 spittle
 arousal
 mope
-tedious
-eligible
 feline
 fuzzy
-ambiguity
 inherent
 chisel
 crescent
@@ -3980,19 +3579,17 @@ dissipate
 tentative
 pick up
 chafe
-concussion
-on the back burner
+bat
 consonants
 bagel
 kowtow
 caliper
-mutilation
 in bulk
 bobcat
-piss off to no end
+piss off
 bounty
 lard
-let's get cracking
+grifter
 doodle
 elude
 cavalry
@@ -4001,20 +3598,19 @@ aberration
 mishap
 unambiguously
 consolation
-double entendre
-pupils dilate
+pupil
+invoice
 foreplay
 doorknob
-tamper with
+coypu
 delineate
-sex drive
-go out on a limb
+limb
+bid
 platitude
-bid for attention
+mulch
 quiver
 wreckage
 wingman
-primordial
 eggplant
 scathing
 indictment
@@ -4034,10 +3630,10 @@ entree
 substitution
 putz
 monsoon
-get the hang of
+leer
 vestigial
 slutty
-drill down
+ostentatious
 bedrock
 tassel
 flawed
@@ -4058,7 +3654,7 @@ vocation
 avocation
 ruse
 exquisitely
-wee hours
+smock
 wrung
 iffy
 predicament
@@ -4075,36 +3671,33 @@ febrile
 delirium
 frankfurter
 croutons
-cinder block
+cinder
 sought-after
-moon over
+moon
 baffle
 repulse
 frisk
 conception
-incinerate
 unanimous
 emblazon
 aggravate
-sack up
+infusion
 misogynistic
 velcro
 woo
 frolick
-no guts no glory
+fend
 gut
 droll
 furnace
 quizzical
 spearfishing
 crossbow
-deem
 girth
 affluence
 detour
 posterity
 juvenile
-squabble
 flatulence
 freckle
 cuckoo
@@ -4114,7 +3707,7 @@ rant
 conclusively
 meticulous
 hokum
-senior prom
+prom
 endeavor
 kickass 
 anguish
@@ -4134,12 +3727,10 @@ vial
 progeny
 lighthouse
 impromptu
-impose
 homonym
 oath
 drizzle
 cadaver
-lumbar
 paralegal
 rife
 flagon
@@ -4150,7 +3741,6 @@ chainmail
 exile
 jester
 balderdash
-derision
 staple
 funky
 fodder
@@ -4168,53 +3758,42 @@ hunk
 traipse
 whisk off
 incadescent
-flaunt
 plummet
 untimely
-demise
 snuggle
 squeeze
-sow
 oat
 dexterity
-shindig
-stick around
+livid
+cilantro
 beacon
 strut
 codger
-malevolence
 invoke
 con
 nonchalance
 application
-aced it
+credibility
 fuzz
-transcend
-lateral
 incisor
 three-tined
 trident
-exhilarating
 suppository
 rever
-fervent
 drat
 sanctuary
 clause
 pod
 pumice
-I'm on a roll
+hassle
 unsavory
 shrine
 mudge
 vagrant
 volatile
-resent
-plunge
 inoculation
 caviar
-prodigal son
-lap
+prodigal
 bug-eyed
 breading
 vociferously
@@ -4230,23 +3809,21 @@ rescind
 knicknack
 appraisal
 playpen
-swerve
 fishy
 matey
 peacock
 plumage
 engorge
-toss out
+cathartic
 direction
-fail across the board
-means of propulsion
-sneak out
+complaint
+propulsion
 nosy
 feign
 strike up
 palatable
 peace out
-landing party
+lummox
 pursuant
 unsolicited
 shortcoming
@@ -4276,18 +3853,15 @@ chapel
 shed
 lumberyard
 prenuptial
-forensic
 molester
 foot
 terminal
-mend
 stroller
 incorrigible
-run amok
+onesie
 amok
 ulterior
 uncanny
-velcro
 mix-up
 wholesome
 hurl
@@ -4299,18 +3873,17 @@ doting
 savory
 corny
 lush
-expense account
+banner
 treadmill
-hemorrhage
 snooty
 appalled
 appall
-whimp
+overbearing
 wean
 sop
-sop up
 sever
-toilet swirlies
+vengeful
+felt
 cooty
 ailment
 percussive
@@ -4320,24 +3893,20 @@ smorgasbord
 larynx
 contemptible
 condone
-chummy
 bender
-pound
 mallet
 reprehensible
-elaborate
-sworn in
+swear in
 stoop
 perjury
 dentures
 strew
-incinerate 
 contaminant
 humongous
 solstice
 bough
 commensurate
-take lightly
+profess
 bayberry
 spearmint
 presuppose
@@ -4347,62 +3916,57 @@ grind
 auspicious
 crusty
 scrap metal
-incapacitate
-get over yourself
+platypus
+scadaddle
 rubble
 overbite
 chipmunk
 wedgie
 Indian burn
-hubris
 probe
-carried away
+fraught
 indigenous
 short-sighted
 camaraderie
 distend
 scrotum
-on the face of it
+covert
 prudent
 incontinence
-fugitive
 occur
 divvy
 hollowed
 larceny
 duodenum
-scarf down
-see this through
+gratuitous
+see through
 adulation
 steep
 consummation
-hit it off
+dandelion
 pancreas
 stall
 mutism
 ersatz
 unassailable
 workaday
-creek bed
+bed
 ambush
-pellet
 dereliction
 court-martial
 discernible
 tux
 daffodil
 abate
-lull
-get first crack at
+swank
 frail
 marshal
 pumpernickel
-go for broke
+spree
 chattel
 snide
 turnkey
 desiccant
-sieve
 strainer
 tweak
 equivocation
@@ -4411,7 +3975,6 @@ frigging
 arson
 sorority
 crimp 
-excruciatingly
 kin
 highfalutin
 insatiable
@@ -4430,7 +3993,6 @@ wither
 knockoff
 coy
 fondle
-banter
 intractable
 blowfly
 compatriot
@@ -4443,7 +4005,6 @@ cardinal
 classified
 rampant
 ovaries
-sullen
 pummel
 tentatively
 gnat
@@ -4457,7 +4018,7 @@ hack
 abs
 garter
 abdominal
-bruise
+cottage cheese
 reckon
 reckon with
 billow
@@ -4468,16 +4029,14 @@ oblique
 debri
 cuss
 canopy
-crack down on
+obsequious
 boisterously 
 tout
 streamline
-hoodlum
 reek
-repentance
 trouper
 buoy 
-all along
+coercion
 turtleneck
 heathen
 flame out
@@ -4488,7 +4047,7 @@ flimsy
 flaccid
 limp
 retract
-take the edge off
+entitlement
 slur
 timid
 elm
@@ -4502,18 +4061,17 @@ perkiness
 manure
 insufferable
 cranberry
-out and about
+driven
 fanny
-fanny pack
+perk up
 squirt
 honeysuckle
 sag
 endearment
 veil
-high seas
-diddly squat
-hedge
-ground
+pectoral
+industrious
+neighborhood
 crumble
 jolly
 wraith
@@ -4531,17 +4089,16 @@ transverse
 tier
 staleness
 douchebag
-you have the edge
+canteen
 commemorative
 tardiness
 juncture
 staple
-below the belt
+alas
 skeet
-onset
+irritant
 humerus
 glenoid
-hump
 lesion
 roast
 candor
@@ -4565,10 +4122,8 @@ loathsome
 busboy
 bronco
 virile
-strut
 stifle
 chat up
-rodent
 chintzy
 abduct
 supplication
@@ -4581,7 +4136,7 @@ school
 torment
 lurk
 loony
-loony bin
+bin
 maudlin
 coalesce
 coccyx
@@ -4592,18 +4147,18 @@ perch
 girder
 sheetrock
 congeal
-beer battered
+guff
 zingy
 rotisserie
 asinine
-wash down
+straddle
 chum
 aggregation
 dispense with
 precipice
 ramification
 hoi polloi
-lead the charge
+stingray
 snide
 summons
 forsake
@@ -4614,9 +4169,9 @@ homespun
 dicey
 to wit
 preside
-cheese him off
-wishing well
-get stood up
+drudgery
+abode
+luggage
 extort
 ragtag
 roughage
@@ -4625,25 +4180,20 @@ window-shopping
 brine
 kidney bean
 seedy
-stale
-cut to the chase
-futile
+erase
 gentile
-babble
 brook
 suede
 saboteur
-bolster
 jog
 trout
-wolf down
+smitten
 snub
-slit
 groggy
-make light of
-nip it in the bud
+styrofoam
+tuple
 jaunt
-rub my nose
+mutability
 self-important
 haystack
 hillbilly
@@ -4661,11 +4211,10 @@ petulant
 underhanded
 bushy
 raggedy
-own up
 absolution
 plucky
 violet
-drop charges
+charge
 alimony
 drag
 custody
@@ -4680,28 +4229,24 @@ drip
 sleigh
 senile
 maul
-up and about
+ordinance
 moron
 lucid
-revving up
-give a hoot
+rev
+floozy
 cram
 gourmet
 smother
 wringer
 sentence
 mantel
-mantelpiece
-defy
 squalor
-fetch
 pageant
 catwalk
 decree
 slinky
 nozzle
 meticulously
-beseech
 consort
 shower bar
 extortionist
@@ -4710,7 +4255,7 @@ dastard
 dire
 snarky
 embrace
-I bear you no ill will
+josh
 gizmo
 gusto
 flapping
@@ -4719,13 +4264,12 @@ scoop out
 allegiance
 buckle
 linen
-pantyhose
 flabbergast
 misappropriate
 misbegotten
 discrepancy
-tuckered out
-nine ways to Sunday
+tucker
+encumber
 kettle
 derange
 iron out
@@ -4739,13 +4283,12 @@ deity
 baffled
 tepid
 mistletoe
-wreath
 nativity
-nativity scene
+nativity
 glide
 roster
 pick through
-hardware store
+dowager
 wimp
 spineless
 retainer
@@ -4763,7 +4306,7 @@ muggle
 tug
 rifle through
 lid
-you set me up
+veneer
 afar
 lingo
 pat
@@ -4773,7 +4316,6 @@ conjugal
 prominent
 drastic
 longevity
-factor in
 brawny
 cruciferous
 radiate
@@ -4781,7 +4323,7 @@ navel
 abdomen
 proprietor
 pedometer
-gambol about
+gambol
 vicissitudes
 vicissitude
 ensconce
@@ -4804,20 +4346,20 @@ refute
 utility
 pussycat
 low-yield
-go splitsville
+quaint
 saucer
 zazzy
 whip up
-pine for
+pine
 titillate
 inmate
-slumber party
+boarder
 slumber
 abstain
 ransack
 casual
 genie
-are not up to code
+lumber
 jag
 jagged
 duvet
@@ -4829,7 +4371,6 @@ esophagus
 tonsil
 grossed out
 dish
-perky
 adrift
 wheelbarrow
 rekindle
@@ -4841,11 +4382,10 @@ implicate
 coven
 collude
 stunt
-stick with
+stick
 conspicuous
 scrumptious
-bimbo
-to brave the scorn
+scorn
 crucifix
 platter
 comprehend
@@ -4858,20 +4398,20 @@ sully
 tarp
 desecrate
 rung
-got caught up
+flatulent
 pull through
 witticism
 romp
 hoopla
 helically
 tuchus
-take a wicked whiz
+atone
 perpetrate
 show out
 cohesion
 loo
 uvula
-have a cow
+rummage
 crimson
 unguent
 ointment
@@ -4884,37 +4424,36 @@ duck out
 twerp
 sublime
 envelop
-got around to
+remanded
 panhandling
 panhandle
 exuberant
 shriek
 skittish
 anxious
-get a kick out of
-cleft palate
+leniency
+cleft
 ingratiating
 windfall
 cautious
 surveillance
 exude
 disinclination
-security clearance
+switchboard
 tipsy
 subvert
 recant
 laudatory
 demote
 riddled
-savvy
-bound to be
+institution
 knave
-ante up
+ante
 primal
 hewn
 debacle
 immolate
-ample grounds
+ground
 womanizer
 penance
 lingerie
@@ -4922,13 +4461,13 @@ clasp
 probation
 skirt
 snag
-out of commission
+dusky
 bare
 wrangle
 perpetuate
 boulder
 vouch
-I rest my case.
+kale
 arbitrarily
 shrewd
 entail
@@ -4942,14 +4481,14 @@ circumference
 areola
 munch
 blatant
-petty functionary
+functionary
 clipboard
 cuddly
 sham
 corn
 stump
 afoot
-I have no truck with
+subject
 nibble
 reel
 yap
@@ -4963,15 +4502,13 @@ acuity
 vascular
 testy
 biddy
-cadaver
 specimen
 spay
 mutilate
 longing
 bloviate
-buffoon
 quip
-hunker down
+hunker
 deflate
 enthrall
 conquest
@@ -4990,7 +4527,7 @@ buttercream
 pounce
 sidelined
 beefy
-flip out on
+paperclip
 nearsighted
 dagnabbit
 flog
@@ -5011,9 +4548,8 @@ deadlift
 idle
 quad
 invigorated
-joint custody
+atrocious
 carnage
-haul
 dippy
 klutz
 enigma
@@ -5022,13 +4558,13 @@ backwood
 bunk
 apropos
 filibuster
-pin down
+pin
 truce
-tear someone a new one
-weigh in
+fawn
+ivory
 freeloader
 adjoining
-zero in on
+subservient
 dander
 chin-up
 doodad
@@ -5052,38 +4588,33 @@ bananas
 fascinate
 soiree
 humanities
-dole out
+dole
 crafty
 smear
-knack
 hightail
 catty
-scavenging bird
+scavenger
 maw
 detergent
 misguide
-moronic
+bonafide
 pariah
 windbreaker
-cape
 cowl
-coax
-raffle
 parenthetical
 pester
 aficionado
-get plastered
+rigor
 writhe
-haggle
 hasty
 wuss
 omen
-get cracking
+accommodation
 clubs
 diamonds
 sneak up
 down low
-monkey business
+fly
 prestidigitation
 untainted
 swift
@@ -5122,14 +4653,14 @@ frumpy
 goad
 poultry
 mellow
-in the nick of time
+hanky
 nick
 reverent
 spitfire
 groovie
 blooper
 sunbathe
-fit to be tied
+handkerchief
 wriggle out
 friar
 brittle
@@ -5150,14 +4681,13 @@ penile
 meekly
 affirmative
 wildebeest
-ferret out
+chokehold
 ferret
 tessellation
 empress
 leper
 cliquey
 befuddled
-gab
 earmarked
 rook
 canker
@@ -5178,7 +4708,7 @@ scapula
 shoulder blade
 indemnify
 waiver
-refresher course
+graze
 ingratiate
 provisionally
 raucous
@@ -5191,22 +4721,20 @@ outrank
 trampy
 randy
 pulley
-hanky panky
-monkey bars
+blob
+uncharted
 upheaval
-trundle bed
+trundle
 mutiny
 dab
 convent
 scamp
-shallow
 ambiance
 cradle
 cavort
 doodles
 fumigate
 gist
-hog
 provenance
 clientele
 hymen
@@ -5215,11 +4743,11 @@ spatial
 inflate
 bazongas
 neat up
-from here on in
+line up
 shimmer
 handicap
 vastly
-closed captioning
+caption
 fiendishly
 remarkable
 cloying
@@ -5234,16 +4762,15 @@ silo
 beet
 beetroot
 bitchiness
-rosary
 coldcock
 bootblack
 unremarkable
-he means well
+black eye
 hijinks
 cackle
 rube
 jape
-poke fun
+enchantress
 milquetoast
 circulars
 mac
@@ -5251,14 +4778,13 @@ in jest
 unsettling
 stud
 thistle
-home stretch
-point of order
-stick in craw
+overrule
+tenement
+lewd
 torrid
 affectation
 otter
 sweat lodge
-iffy
 fussy
 seagull
 sequins
@@ -5277,7 +4803,7 @@ peddler
 nitrous oxide
 washed-up
 pot
-thyroid gland
+thyroid
 inaugural
 spur
 indemnification
@@ -5288,9 +4814,8 @@ clam
 felon
 congenital
 assuage
-trip up
+bisque
 harp on
-inherent
 inherently
 minutes
 pipe down
@@ -5298,7 +4823,6 @@ curdle
 derisively
 sluggishly
 defile
-greedy
 awkward
 stand for
 deference
@@ -5323,7 +4847,7 @@ crummy card
 dissect
 beaker
 hazing
-cemetery plot
+gland
 recite
 substantial
 tot
@@ -5333,7 +4857,6 @@ mousy wallflower
 alarmist
 cornrow
 frock
-trivia
 spoils
 heartthrob
 clipper
@@ -5368,14 +4891,14 @@ slip on
 malarkey
 bellyache
 dandruff
-nest egg
-teensy bit
+craving
+wean off
 precarious
 arugula
 debase
 mincemeat
 nutmeg
-get wind of
+worrisome
 knock back
 salvage
 chap
@@ -5392,8 +4915,7 @@ batch
 syllable
 abruption
 scuzzy
-all in all
-truce
+anthrax
 off-limits
 mojo
 landfill
@@ -5411,7 +4933,7 @@ grovel
 guzzle
 tartar
 traipse
-cooped up
+pleasantries
 coop
 comb through
 naturalize
@@ -5419,11 +4941,11 @@ drycleaner
 foreskin
 canvas
 weenie
-lost cause
+cause
 hickie
 turn in
 denture
-cut loose
+uninhibited
 measly
 sellout
 wicket
@@ -5452,7 +4974,6 @@ posit
 jab
 inconclusively
 expectorate
-swab
 back out
 butch
 figurine
@@ -5465,7 +4986,6 @@ carol
 yuletide
 tinsel
 drawbridge
-carpal tunnel
 chasm
 plop
 loom
@@ -5484,7 +5004,7 @@ rumble
 fable
 fortitude
 moxie
-landing party
+earthy
 stun
 mob
 eyesore
@@ -5495,14 +5015,13 @@ whoosh
 peat
 turnip
 hyphen
-leaps and bounds
+dour
 boa constrictor
 constrict
 jostle
 infringement
 kooky
 conformity
-squabble
 second
 ditto
 prune
@@ -5521,7 +5040,6 @@ eve
 double-cross
 embezzle
 upholster
-aficionado
 shut out
 cob
 rope
@@ -5537,9 +5055,7 @@ creed
 counter 
 peer-review
 slacker
-wield
 mammary
-seedy
 hookey
 cripple
 scrawny
@@ -5571,29 +5087,27 @@ meerkats
 demerit
 voracious
 closure
-pitch in
+hickey
 rind
 cufflinks
-let down
-lay waste
+plod
 bangs
 pat-down
 hulking
-intricacies of
+negligent
 intricacies
 pillage
 caress
 swagger
 britches
-locket
-drive away
+spurn
 pique
 cattywampus
 intersperse
 posterior
 cingulate
 kelp
-throes of
+unerring
 throe
 bloat
 ravenous
@@ -5603,42 +5117,38 @@ ninny
 dewy-eyed
 lopsided
 sagging
-well-endowed
+denigrate
 strip
 mickey
 tangy
 pound
 adage
 gratify
-top-notch
+orchard
 deficiency
 brevity
-dead giveaway
-braid
-well-founded
+kickstand
+found
 nordic
 mutton
 muster
-burn ward
 wick
 petal
 crucible
 antagonize
-next of kin
+alternate
 conceptualise
 yoke
 cheesy
 flare up
 consummate
-baste
 inappropriate
 enabler
 climactic
 elicit
 department store
 stuck-up
-outrage
-take by storm
+promptly
 reconciliation
 belle
 duct tape
@@ -5657,12 +5167,11 @@ nary
 conduit
 newfangled
 discord
-get to tap
+raunchy
 change
 shimmy
-loose change
+piggy bank
 heckle
-bobble
 bobblehead
 lame
 appellate
@@ -5678,27 +5187,26 @@ hag
 deputy
 maggot
 conniving
-harass
-educated guess
+misgiving
+incumbency
 reduce
-content
+custard
 ride out
-price-gouging
+pretense
 blindside
 sympathy
 sheer
 breakdown
 debris
-wring
 hang on
-leadoff hitter
+hitter
 doily
 pew
 pulpit
 shingles
-dry run
+mallard
 hem
-kick the bucket
+parable
 urn
 backsplash
 torrent
@@ -5712,7 +5220,7 @@ acorn
 hymnal
 swap meet
 sacrament
-occupational therapy
+natch
 simmer
 lace
 fish tank
@@ -5731,7 +5239,6 @@ fetus
 incense
 clairvoyance
 swindle
-malarkey
 fondant
 rig
 fishing pole
@@ -5743,13 +5250,12 @@ chubster
 compulsive
 impart
 emasculate
-lash out
 pitch
 motion
 tack
 corroborate
 infatuate
-cotton candy
+cotton
 ply
 wart
 dent
@@ -5758,19 +5264,18 @@ persimmon
 mound
 cushion
 divot
-stray off
+stray
 idle
 tine
 oblivious
-spiffy
 jonesing
 arsonist
-now and again
+preppy
 overdrive
 harness
 scour
 gratin
-come to blows
+burlap
 friction
 symphesize
 rave
@@ -5780,10 +5285,10 @@ dampness
 hatch
 stipend
 curlicue
-fend off
+fend
 smirk
 in stitches
-vas deferens
+jeopardy
 toupee
 implacable
 clip-on
@@ -5799,7 +5304,6 @@ frugal
 saggy
 flag pole
 infotainment
-lingerie
 deciduous
 fount
 illicit
@@ -5811,7 +5315,7 @@ ultimate
 renegade
 tweezers
 rep
-all the rage
+ditz
 bloated
 libra
 exacerbate
@@ -5831,7 +5335,7 @@ temptress
 crackerjack
 varsity
 sting
-press charges
+charge
 moll
 cherub
 ransom
@@ -5841,14 +5345,14 @@ nippy
 quarterlies
 demarcation
 pierce
-personal effects
+sedentary
 severance
-steer away
+steer
 reenactment
 candidly
 welcoming
 connotation
-time being
+compactor
 slash
 superior
 fatigue
@@ -5857,7 +5361,7 @@ forfeit
 hysterectomy
 fissure
 scuttlebutt
-cerebral palsy
+palsy
 convalescence
 downer
 flagrant
@@ -5866,7 +5370,7 @@ groach
 tangible
 trade-off
 moat
-overrule
+commies
 bang-up
 profusely
 crash
@@ -5883,12 +5387,11 @@ alumni
 bone
 bleep
 bimbo
-suspense
 scrutinize
 crabs
 irrelevant
 labia
-from here on out
+baler
 scoreboard
 rip-off
 armoire
@@ -5904,24 +5407,23 @@ mince
 garnish
 sprinkler
 high-spirited
-whisk
 gossamer
 anthem
-extension
-sorcerer
-get drafted
-acquire
-joint pet
-berserk
-go berserk
-close quarters
+canary
+comforter
+surefire
+misconduct
+sirloin
+slag
+gallow
+lollygag
 wacky
-think back
+bale
 clump
 adjective
 coherent
 curfew
-come to terms
+rampage
 incense
 mockup
 hodge
@@ -5942,7 +5444,6 @@ marital
 dew
 discontented
 clothespin
-yoke
 serve
 stormtrooper
 benevolent
@@ -5950,7 +5451,6 @@ codicil
 fixture
 get behind
 haptic
-zit
 toggle
 hubcap
 tenderloin
@@ -5962,7 +5462,6 @@ overshoot
 exhilarate
 entrench
 entrenched
-revoke
 hafty
 excruciating
 pass on
@@ -5981,8 +5480,7 @@ modesty
 neck
 bleachers
 jaundice
-crackdown on
-penchant
+crackdown
 sway
 dredge up
 mushy
@@ -6005,13 +5503,11 @@ rake
 festive
 palm off
 restless
-devious
 ramekin
 embellish
 venue
 puree
 yarrow
-overlook
 rim
 fencing
 foil
@@ -6037,18 +5533,16 @@ sleuth
 gig
 braise
 boink
-chummy
 scuzzball
-tipsy
+ream
 disrobe
 dwell
 stardom
-spoke
+choppy
 uphold
 statutory
 crucify
 headmaster
-batch
 orb
 conflicted
 scrutiny
@@ -6124,7 +5618,7 @@ excel
 gush
 earlobe
 berate
-shoot the breeze
+commissioner
 chowder
 bloomers
 litigious
@@ -6163,7 +5657,7 @@ unflinchingly
 comply
 ruckus
 snipe
-take turns
+intercede
 radish
 waterboarding
 burdock
@@ -6202,11 +5696,10 @@ plow
 priss
 do cartwheel
 bland
-ebb
 half-cocked
 quitter
 consolidation
-flash flood
+flash
 vanquish
 mono
 raddest
@@ -6216,20 +5709,16 @@ grapevine
 hock
 heresy
 aplomb
-rugged
 interchange
 rebate
 disparage
-sublime
-clink
 gruel
 bathrobe
-hap
 desist
 innards
 retool
 size up
-pig pen
+disgruntled
 billable
 careen
 threadbare
@@ -6240,7 +5729,7 @@ cut-rate
 motor lodge
 diversion
 run-in
-hocking(hawking)
+advantageous
 conch
 restrung
 ribbed
@@ -6248,7 +5737,6 @@ tardy
 chip away
 watercolor
 namely
-makeover
 crow
 robin
 cougar
@@ -6268,7 +5756,7 @@ sportscaster
 ruddy
 alias
 call off
-fork over
+consternation
 lap
 irksome
 whip up
@@ -6282,19 +5770,18 @@ skid
 traction
 stool
 tingly
-white hot
-scruple
+cock
 instill
 profanity
 dubious
 blurt
-blurt out
+prophecy
 quiche
 weasel
 allegiance
 gavel
 snuggle
-snuggle up
+tracing
 re-filing
 groupie
 pursue
@@ -6307,595 +5794,3 @@ parch
 realm
 bring about
 lunge
-ivory
-tracing
-prophecy
-cock
-consternation
-disgruntled
-intercede
-commissioner
-ream
-bale
-baler
-compactor
-sedentary
-ditz
-jeopardy
-burlap
-preppy
-pariah
-natch
-parable
-mallard
-pretense
-raunchy
-promptly
-alternate
-advantageous
-kickstand
-denigrate
-unerring
-long haul
-spurn
-negligent
-plod
-geriatric
-earthy
-uninhibited
-pleasantries
-anthrax
-worrisome
-craving
-wean off
-commies
-tenement
-lewd
-overrule
-line up
-blob
-uncharted
-graze
-chokehold
-hanky
-fly
-accommodation
-rigor
-bonafide
-subservient
-dinky
-fawn
-atrocious
-paperclip
-subject
-kale
-dusky
-institution
-neighborhood
-switchboard
-leniency
-remanded
-rummage
-atone
-flatulent
-lumber
-boarder
-quaint
-veneer
-dowager
-encumber
-josh
-ordinance
-styrofoam
-smitten
-erase
-drudgery
-abode
-luggage
-straddle
-guff
-alas
-gratuitous
-canteen
-pectoral
-industrious
-perk up
-driven
-entitlement
-coercion
-obsequious
-spree
-swank
-dandelion
-covert
-fraught
-profess
-vengeful
-felt
-banner
-onesie
-lummox
-hassle
-credibility
-livid
-cilantro
-infusion
-fend
-smock
-ostentatious
-leer
-mulch
-invoice
-grifter
-menorah
-sterling
-bat
-tack on
-brimstone
-fins
-shaft
-bozo
-harness
-snug
-persevere
-fondly
-violin
-clammy
-picket
-picket fence
-belatedly
-scrum
-blip
-dinky
-scarlet
-coo
-birch
-fiddle with
-blockhead
-frantically
-airfare
-holistic
-boondocks
-roving
-dispensary
-concavity
-isosceles
-scalene
-defunct
-penchant
-boxcar
-stoked
-hallmark
-underwhelmed
-urchin
-sconce
-pinch off
-trip over
-lend
-lease
-colliery
-shoal
-cormorant
-cot
-vacate
-pry out
-worrywart
-unduly
-cupboard
-skit
-gawk
-boorish
-groundwork
-consideration
-resort
-spent
-escrow
-talk up
-mudslide
-contingency
-scrounge
-lentil
-platypus
-scadaddle
-tax
-juggle
-greyhound
-selfless
-closeted
-allot
-avail
-clingy
-sod
-preposition
-infinitive
-adverb
-admonish
-vigorously
-articulated
-buffoon
-wrongful
-hydrangea
-antler
-slur
-chant
-bystander
-renal
-steer
-aftershave
-surly
-pitch
-cayenne
-lull
-caress
-swatch
-quote
-wiggle
-malign
-specious
-serendipity
-coincide
-sonorus
-bud
-reservation
-foreclose
-podunk
-glutes
-sidebar
-bigot
-rant
-cottage cheese
-frown line
-sear
-currant
-tribute
-mink
-ore
-postgraduate
-lay off
-gild
-lanyard
-keynote
-laughingstock
-frazzle
-aspersion
-dour
-diligence
-retardant
-function
-raconteur
-spellbinder
-orchard
-helper
-wonky
-absolve
-cranial
-buff
-consign
-misogyny
-crinkle
-wiener
-aussie
-collect call
-rue
-thrifty
-yurt
-whisk
-hemp
-ooze
-misty
-arch-nemesis
-entwine
-taffy
-veg out
-lead on
-dissent
-treason
-temerity
-merchandise
-extremities
-plume
-emcee
-fritter away
-hackneyed
-still life
-squash
-bisque
-blurb
-crop out
-technique
-churn
-bawdy
-limerick
-fern
-outhouse
-thoroughbred
-plausibly
-expeditiously
-overstep
-yolk
-underway
-miscreant
-waterfront
-stench
-nettles
-stranded
-pontificate
-frigid
-vista
-legitimate
-upholstery
-obligatory
-shtup
-pawn off
-cilia
-micaceous
-schist
-mush
-homicidal
-spout
-miserable
-resilient
-gams
-whoremonger
-squad
-embossed
-man up
-conscientious
-slander
-guardian
-spar
-clemency
-pox
-delude
-pinion
-reluctant
-hefty
-ice-ax
-shuttle
-encampment
-sweet tooth
-limber
-tally
-strafe
-somber
-continuity
-ghoulish
-incumbent
-ballot
-quilt
-cultivar
-back-to-back
-recluse
-pinnacle
-gorge
-inn
-portend
-legislation
-steadfast
-disarray
-wasteland
-welfare
-unfurl
-caveat
-cave in
-reinforce
-oust
-bassinet
-muddle
-dashing
-dilly-dally
-spackle
-cave in
-installment
-abomination
-sanction
-mousy
-overbearing
-longshoreman
-drift apart
-intimate
-tibia
-extrude
-rush
-par
-ensnare
-castaway
-marooned
-scald
-comport
-perineum
-harsh
-midwife
-interim
-malicious
-foist
-bastardization
-disperse
-get the lay of the land
-concoct
-floozy
-hickey
-black eye
-enchantress
-choppy
-deliverance
-knickers
-cuckold
-showcase
-lorry
-oblivious
-custard
-bunion
-inadmissible
-cryptic
-hotshot
-vendetta
-hoard
-hold on to
-helm
-sensible
-legacy
-paragon
-vocational
-outback
-incontinent
-fleece
-acquittal
-juror
-liaison
-bombshell
-testimony
-crease
-legislature
-marigold
-handmaid
-pinecone
-nuisance
-encumbrence
-encroachment
-piercing
-virility
-tarmac
-wereboar
-flail
-tattletale
-jugular
-pecs
-diddle
-heft
-fracas
-unmoor
-wharf
-relatable
-ambassador
-cod
-atrocity
-locomotion
-arboreal
-canine
-litmus
-brink
-scuba
-regurgitate
-painstakingly
-godliness
-stitious
-egret
-porcupine
-petrify
-petrified
-participle
-stitch
-infamy
-sleek
-proxy
-earthling
-pipsqueak
-annex
-derelict
-catchy
-buff
-muffler
-sedate
-leeway
-cathartic
-deplete
-impale
-depose
-contender
-volley
-swivel
-rowboat
-capsize
-legibly
-spaniard
-messy
-orphanage
-dodgeball
-weevil
-teller
-misconstrue
-skim
-obsession
-declare
-canary
-comforter
-surefire
-misconduct
-sirloin
-slag
-gallow
-lollygag
-rampage
-navigable
-perdition
-scruples
-combust
-pupa
-throughput
-pipeline
-vertex
-reframe
-clever
-incandescent
-retrace
-molt
-copulation
-compendium
-split
-heron
-understated
-advice
-thumb
-one-off
-snout
-muzzle
-fin
-serrated
-finesse
-porpoise
-lacerate
-malice
-census
-abolish
-stingray
-deplorable
-buck
-mutability
-tuple
-drawers 
-drawer 
-demise
-cliffhanger
-borked
-endorsement
-outset
-capitalize
-trifle
-excerpt
-sentient
-margin
-debilitate
-alloy
-supercharge
-spearhead
-plexus
-bewilderness
-misgiving
-incumbency
-reinforcement
-perceive
-flip-flop
-flip-flops
-dice
-plaza
-coypu
-pike
-abacus
-oblong
-vertebrate
-innocuous
-primary
-embankment
-expedient
-elderberry
